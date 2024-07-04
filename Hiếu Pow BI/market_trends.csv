@@ -1,0 +1,201 @@
+trend_id,product_group_id,trend_date,trend_description,forecasted_demand,actual_demand,trend_score,market_region,competitor_activity,created_at,updated_at
+1,97,2024-04-02,Description for market trend 1,7955,1101,5.75,Africa,Competitor activity for trend 1,2023-07-04,2024-04-11
+2,34,2024-01-07,Description for market trend 2,2411,5720,3.4,Europe,Competitor activity for trend 2,2023-08-04,2024-01-01
+3,155,2024-05-26,Description for market trend 3,5977,2303,2.21,Australia,Competitor activity for trend 3,2023-10-24,2024-05-02
+4,83,2023-12-21,Description for market trend 4,9280,4030,9.01,North America,Competitor activity for trend 4,2023-08-21,2024-01-15
+5,182,2023-10-17,Description for market trend 5,6419,1881,6.93,North America,Competitor activity for trend 5,2024-02-17,2023-12-26
+6,51,2023-07-16,Description for market trend 6,540,5706,4.82,Europe,Competitor activity for trend 6,2024-06-14,2024-04-14
+7,290,2024-02-26,Description for market trend 7,5242,679,1.37,Asia,Competitor activity for trend 7,2024-05-02,2024-06-09
+8,270,2023-07-15,Description for market trend 8,6815,106,5.03,Europe,Competitor activity for trend 8,2023-08-09,2024-05-21
+9,29,2023-12-06,Description for market trend 9,5597,78,2.26,Europe,Competitor activity for trend 9,2024-01-04,2024-01-17
+10,95,2023-11-14,Description for market trend 10,7193,1027,7.65,Africa,Competitor activity for trend 10,2024-03-26,2024-04-02
+11,280,2023-06-30,Description for market trend 11,7297,5170,9.94,Europe,Competitor activity for trend 11,2023-10-17,2024-06-12
+12,115,2023-12-25,Description for market trend 12,2004,5230,2.7,Australia,Competitor activity for trend 12,2023-09-17,2024-02-13
+13,7,2024-01-27,Description for market trend 13,6367,6037,1.71,Australia,Competitor activity for trend 13,2024-04-02,2024-03-19
+14,152,2023-10-18,Description for market trend 14,4683,604,5.37,Australia,Competitor activity for trend 14,2023-10-27,2024-05-15
+15,227,2023-09-04,Description for market trend 15,8377,3039,8.46,North America,Competitor activity for trend 15,2023-10-05,2024-05-03
+16,292,2023-07-27,Description for market trend 16,3504,8073,8.17,Asia,Competitor activity for trend 16,2023-10-30,2024-01-15
+17,60,2023-11-26,Description for market trend 17,8236,2349,2.25,Europe,Competitor activity for trend 17,2023-12-21,2024-05-14
+18,21,2024-02-29,Description for market trend 18,9654,7042,9.74,Asia,Competitor activity for trend 18,2024-01-25,2024-03-23
+19,297,2023-12-06,Description for market trend 19,7710,5354,4.56,North America,Competitor activity for trend 19,2023-08-23,2024-01-23
+20,88,2023-12-24,Description for market trend 20,4921,196,7.0,South America,Competitor activity for trend 20,2024-05-03,2024-05-01
+21,26,2024-06-06,Description for market trend 21,1174,7203,2.91,Europe,Competitor activity for trend 21,2024-05-03,2024-01-15
+22,138,2023-10-16,Description for market trend 22,7121,1438,8.77,North America,Competitor activity for trend 22,2023-11-09,2024-05-29
+23,95,2024-02-19,Description for market trend 23,6401,9081,3.17,South America,Competitor activity for trend 23,2024-05-27,2024-05-18
+24,260,2024-04-04,Description for market trend 24,7275,299,8.2,North America,Competitor activity for trend 24,2024-04-06,2024-01-25
+25,60,2023-10-08,Description for market trend 25,407,7801,1.8,North America,Competitor activity for trend 25,2023-12-25,2024-04-30
+26,72,2023-12-31,Description for market trend 26,3439,6576,9.53,South America,Competitor activity for trend 26,2024-04-10,2023-12-25
+27,150,2023-07-16,Description for market trend 27,5613,6022,8.81,Asia,Competitor activity for trend 27,2023-12-20,2024-02-27
+28,136,2024-03-14,Description for market trend 28,4162,5421,7.07,Australia,Competitor activity for trend 28,2024-03-18,2024-06-20
+29,280,2024-06-02,Description for market trend 29,2419,6339,6.54,Africa,Competitor activity for trend 29,2023-11-23,2024-03-05
+30,288,2023-11-07,Description for market trend 30,7113,5488,9.09,Europe,Competitor activity for trend 30,2024-04-07,2024-05-24
+31,179,2023-10-17,Description for market trend 31,1453,1602,8.96,Australia,Competitor activity for trend 31,2023-09-10,2024-02-07
+32,5,2024-03-03,Description for market trend 32,3984,5795,4.92,South America,Competitor activity for trend 32,2024-06-10,2024-04-22
+33,16,2023-07-15,Description for market trend 33,8341,1763,4.99,Australia,Competitor activity for trend 33,2024-03-03,2024-04-23
+34,126,2023-11-01,Description for market trend 34,6887,9449,3.45,Asia,Competitor activity for trend 34,2023-10-19,2024-02-08
+35,110,2024-05-17,Description for market trend 35,113,6996,3.65,Asia,Competitor activity for trend 35,2023-07-05,2024-06-04
+36,268,2024-03-26,Description for market trend 36,7702,1234,9.02,Asia,Competitor activity for trend 36,2023-09-26,2024-01-12
+37,73,2023-07-01,Description for market trend 37,2309,4009,7.49,South America,Competitor activity for trend 37,2024-03-15,2024-05-02
+38,206,2023-07-30,Description for market trend 38,7562,9081,2.03,North America,Competitor activity for trend 38,2024-04-07,2024-03-13
+39,28,2023-09-20,Description for market trend 39,1739,7685,2.39,Africa,Competitor activity for trend 39,2023-09-13,2024-04-09
+40,267,2023-11-02,Description for market trend 40,2214,4469,7.31,Europe,Competitor activity for trend 40,2023-08-10,2024-05-22
+41,238,2023-07-31,Description for market trend 41,5877,3151,2.99,North America,Competitor activity for trend 41,2023-09-30,2024-02-28
+42,218,2024-02-19,Description for market trend 42,6710,7089,4.83,Asia,Competitor activity for trend 42,2023-06-29,2024-01-18
+43,144,2023-11-02,Description for market trend 43,5411,7161,9.54,Africa,Competitor activity for trend 43,2023-12-20,2024-01-03
+44,31,2024-02-26,Description for market trend 44,8484,343,2.46,Asia,Competitor activity for trend 44,2024-05-24,2024-04-25
+45,165,2023-11-10,Description for market trend 45,4832,254,1.15,Africa,Competitor activity for trend 45,2023-07-29,2024-04-16
+46,202,2024-04-04,Description for market trend 46,8601,7543,5.37,South America,Competitor activity for trend 46,2023-10-07,2024-02-09
+47,20,2023-12-11,Description for market trend 47,600,5732,8.32,Australia,Competitor activity for trend 47,2023-09-29,2024-05-05
+48,21,2023-08-11,Description for market trend 48,568,7861,7.06,Africa,Competitor activity for trend 48,2024-01-04,2023-12-28
+49,124,2023-07-24,Description for market trend 49,6613,3706,2.34,North America,Competitor activity for trend 49,2024-05-09,2024-02-25
+50,220,2023-12-03,Description for market trend 50,6692,1993,2.79,Australia,Competitor activity for trend 50,2024-02-02,2024-06-15
+51,260,2024-01-30,Description for market trend 51,9381,68,8.81,Australia,Competitor activity for trend 51,2023-06-22,2024-02-28
+52,146,2023-12-15,Description for market trend 52,7226,4693,6.14,Asia,Competitor activity for trend 52,2024-04-19,2023-12-30
+53,202,2023-06-28,Description for market trend 53,4245,4995,9.89,North America,Competitor activity for trend 53,2024-05-11,2024-04-09
+54,68,2024-04-19,Description for market trend 54,1940,6248,7.07,Europe,Competitor activity for trend 54,2023-07-27,2024-01-06
+55,54,2023-09-08,Description for market trend 55,4708,7409,8.41,Europe,Competitor activity for trend 55,2024-02-18,2024-05-29
+56,72,2023-11-18,Description for market trend 56,6693,1090,5.71,Africa,Competitor activity for trend 56,2023-12-31,2024-02-09
+57,132,2024-03-06,Description for market trend 57,2370,750,2.22,Europe,Competitor activity for trend 57,2023-10-28,2024-03-20
+58,215,2024-04-05,Description for market trend 58,5384,4007,6.72,South America,Competitor activity for trend 58,2024-05-19,2024-05-18
+59,235,2023-09-11,Description for market trend 59,8096,8715,1.33,Europe,Competitor activity for trend 59,2023-07-27,2024-03-17
+60,181,2024-02-18,Description for market trend 60,3661,1467,4.2,Africa,Competitor activity for trend 60,2023-10-02,2024-05-07
+61,99,2023-12-31,Description for market trend 61,4455,7162,4.81,South America,Competitor activity for trend 61,2024-06-19,2024-04-18
+62,279,2024-02-09,Description for market trend 62,6638,1523,5.24,North America,Competitor activity for trend 62,2023-11-30,2024-05-11
+63,69,2024-05-20,Description for market trend 63,8715,910,5.31,Australia,Competitor activity for trend 63,2023-07-22,2024-02-03
+64,3,2023-08-17,Description for market trend 64,6505,8151,2.41,South America,Competitor activity for trend 64,2024-04-01,2024-05-18
+65,87,2024-04-17,Description for market trend 65,6503,3811,4.19,North America,Competitor activity for trend 65,2023-08-12,2024-06-18
+66,144,2024-04-13,Description for market trend 66,1175,2233,8.64,North America,Competitor activity for trend 66,2023-09-01,2024-02-11
+67,8,2024-01-09,Description for market trend 67,3729,8514,3.33,Africa,Competitor activity for trend 67,2024-06-05,2024-06-07
+68,188,2023-10-23,Description for market trend 68,1712,4308,3.42,North America,Competitor activity for trend 68,2024-04-07,2024-03-20
+69,203,2024-05-12,Description for market trend 69,8982,5357,1.18,South America,Competitor activity for trend 69,2023-08-19,2024-05-26
+70,59,2023-07-30,Description for market trend 70,5276,2586,6.21,Europe,Competitor activity for trend 70,2023-06-29,2023-12-30
+71,39,2024-03-14,Description for market trend 71,9881,6986,2.76,Asia,Competitor activity for trend 71,2024-03-08,2024-02-18
+72,247,2023-08-21,Description for market trend 72,4313,8222,6.88,South America,Competitor activity for trend 72,2023-07-01,2024-01-28
+73,277,2024-05-08,Description for market trend 73,1208,8962,5.67,South America,Competitor activity for trend 73,2023-07-13,2024-02-09
+74,297,2023-10-31,Description for market trend 74,9424,5855,6.81,Europe,Competitor activity for trend 74,2023-09-02,2023-12-24
+75,233,2024-05-26,Description for market trend 75,7750,8511,1.49,Africa,Competitor activity for trend 75,2024-02-03,2024-04-17
+76,120,2024-04-29,Description for market trend 76,7493,2907,9.33,Africa,Competitor activity for trend 76,2024-06-04,2024-04-23
+77,91,2023-11-22,Description for market trend 77,5243,478,7.57,Australia,Competitor activity for trend 77,2024-01-08,2024-06-07
+78,162,2023-10-22,Description for market trend 78,3441,9168,7.98,North America,Competitor activity for trend 78,2023-11-05,2024-03-22
+79,131,2024-04-20,Description for market trend 79,4414,5792,9.47,Africa,Competitor activity for trend 79,2023-12-03,2024-04-14
+80,37,2023-08-19,Description for market trend 80,6640,8626,6.23,North America,Competitor activity for trend 80,2024-03-08,2024-06-02
+81,57,2024-02-26,Description for market trend 81,1568,7724,6.46,Africa,Competitor activity for trend 81,2024-01-13,2024-03-23
+82,29,2024-01-25,Description for market trend 82,3597,2659,8.58,Europe,Competitor activity for trend 82,2023-11-29,2024-05-31
+83,297,2024-06-02,Description for market trend 83,1040,660,6.33,Africa,Competitor activity for trend 83,2024-04-11,2024-03-03
+84,276,2023-11-06,Description for market trend 84,7700,483,7.58,Asia,Competitor activity for trend 84,2023-10-03,2024-01-15
+85,243,2024-03-02,Description for market trend 85,8602,1910,9.2,Australia,Competitor activity for trend 85,2024-03-12,2024-05-03
+86,169,2024-02-28,Description for market trend 86,9299,2607,2.6,Asia,Competitor activity for trend 86,2024-06-08,2024-03-14
+87,1,2023-07-09,Description for market trend 87,961,8479,6.69,Australia,Competitor activity for trend 87,2023-08-27,2024-05-07
+88,163,2023-07-28,Description for market trend 88,1566,344,6.33,Africa,Competitor activity for trend 88,2023-09-16,2024-06-19
+89,75,2024-04-19,Description for market trend 89,4023,873,2.84,South America,Competitor activity for trend 89,2024-06-01,2024-01-11
+90,299,2023-11-01,Description for market trend 90,5248,8084,7.76,North America,Competitor activity for trend 90,2023-09-01,2024-03-14
+91,73,2023-08-23,Description for market trend 91,3015,1111,4.81,Europe,Competitor activity for trend 91,2023-10-09,2024-03-05
+92,112,2024-03-30,Description for market trend 92,5261,8953,9.45,Asia,Competitor activity for trend 92,2023-10-15,2024-03-26
+93,74,2024-05-29,Description for market trend 93,9030,4871,6.33,South America,Competitor activity for trend 93,2023-09-21,2024-01-14
+94,189,2023-09-06,Description for market trend 94,3078,8728,6.85,Australia,Competitor activity for trend 94,2023-09-13,2024-03-20
+95,16,2024-05-01,Description for market trend 95,2481,1158,4.59,Asia,Competitor activity for trend 95,2024-05-21,2024-05-22
+96,163,2024-03-03,Description for market trend 96,6284,3249,2.73,South America,Competitor activity for trend 96,2024-01-27,2024-01-29
+97,197,2023-08-12,Description for market trend 97,3291,8649,2.08,Africa,Competitor activity for trend 97,2024-04-06,2024-04-20
+98,53,2024-01-11,Description for market trend 98,5059,4590,7.75,Australia,Competitor activity for trend 98,2023-07-12,2024-01-05
+99,65,2023-06-26,Description for market trend 99,6886,387,4.42,South America,Competitor activity for trend 99,2023-08-31,2024-04-11
+100,84,2023-12-31,Description for market trend 100,3606,1653,5.29,North America,Competitor activity for trend 100,2024-01-24,2024-03-26
+101,300,2023-09-22,Description for market trend 101,3957,5760,1.14,Europe,Competitor activity for trend 101,2023-11-07,2024-05-16
+102,27,2023-12-06,Description for market trend 102,9986,896,3.19,South America,Competitor activity for trend 102,2023-07-25,2024-06-18
+103,194,2024-05-28,Description for market trend 103,934,4841,1.34,South America,Competitor activity for trend 103,2023-08-20,2024-02-11
+104,268,2024-06-04,Description for market trend 104,4461,5660,9.66,South America,Competitor activity for trend 104,2023-09-03,2024-05-31
+105,64,2023-12-22,Description for market trend 105,2819,5479,8.99,Europe,Competitor activity for trend 105,2024-04-09,2024-05-18
+106,152,2024-04-09,Description for market trend 106,9900,8002,7.2,Europe,Competitor activity for trend 106,2023-10-11,2024-01-13
+107,72,2023-10-24,Description for market trend 107,9476,5639,8.79,Asia,Competitor activity for trend 107,2024-03-16,2024-01-16
+108,168,2024-01-06,Description for market trend 108,6026,8032,5.18,North America,Competitor activity for trend 108,2023-11-22,2024-03-02
+109,234,2023-12-17,Description for market trend 109,211,5154,2.62,North America,Competitor activity for trend 109,2023-08-31,2024-05-16
+110,45,2023-07-31,Description for market trend 110,1534,3780,3.03,Europe,Competitor activity for trend 110,2024-04-28,2024-03-26
+111,93,2023-12-19,Description for market trend 111,3135,6096,7.33,North America,Competitor activity for trend 111,2024-06-12,2024-06-07
+112,91,2024-05-15,Description for market trend 112,2460,4728,3.43,South America,Competitor activity for trend 112,2023-09-21,2024-05-13
+113,278,2023-11-28,Description for market trend 113,5080,3699,8.88,South America,Competitor activity for trend 113,2023-09-13,2024-04-13
+114,50,2024-05-31,Description for market trend 114,2707,3369,1.84,Asia,Competitor activity for trend 114,2024-05-24,2024-03-27
+115,44,2023-07-22,Description for market trend 115,4342,2927,1.5,South America,Competitor activity for trend 115,2023-08-17,2024-03-09
+116,56,2023-11-06,Description for market trend 116,7618,2683,2.91,Europe,Competitor activity for trend 116,2023-08-07,2024-05-02
+117,119,2024-04-12,Description for market trend 117,4184,1946,1.05,Europe,Competitor activity for trend 117,2023-07-17,2024-03-16
+118,230,2023-09-17,Description for market trend 118,938,5040,1.1,Asia,Competitor activity for trend 118,2023-09-30,2024-01-20
+119,7,2024-05-06,Description for market trend 119,281,5043,4.81,North America,Competitor activity for trend 119,2023-09-07,2024-01-24
+120,200,2024-04-09,Description for market trend 120,6848,9035,2.6,North America,Competitor activity for trend 120,2024-06-07,2024-01-10
+121,13,2024-02-06,Description for market trend 121,9668,5108,7.8,North America,Competitor activity for trend 121,2023-12-02,2024-02-10
+122,4,2023-06-27,Description for market trend 122,7883,1061,7.76,Australia,Competitor activity for trend 122,2023-06-28,2024-02-26
+123,293,2023-12-23,Description for market trend 123,5724,918,5.07,South America,Competitor activity for trend 123,2023-09-22,2024-03-17
+124,117,2023-10-03,Description for market trend 124,4947,9409,2.74,Asia,Competitor activity for trend 124,2023-08-17,2024-03-25
+125,36,2024-03-27,Description for market trend 125,7004,8410,8.02,South America,Competitor activity for trend 125,2024-02-23,2024-04-29
+126,191,2024-01-16,Description for market trend 126,854,2381,1.13,Australia,Competitor activity for trend 126,2024-04-27,2024-03-29
+127,34,2023-08-28,Description for market trend 127,4469,7235,1.31,Australia,Competitor activity for trend 127,2023-07-05,2024-05-21
+128,253,2024-01-28,Description for market trend 128,5190,1029,2.76,North America,Competitor activity for trend 128,2024-05-30,2024-06-12
+129,274,2024-02-07,Description for market trend 129,1817,8064,1.81,Australia,Competitor activity for trend 129,2023-12-23,2024-05-31
+130,184,2023-07-21,Description for market trend 130,9639,6364,3.95,Asia,Competitor activity for trend 130,2023-09-20,2024-06-08
+131,264,2023-06-26,Description for market trend 131,3488,7287,8.55,South America,Competitor activity for trend 131,2024-04-03,2023-12-27
+132,208,2024-03-12,Description for market trend 132,9810,1122,5.22,Africa,Competitor activity for trend 132,2023-10-07,2024-06-06
+133,32,2023-09-08,Description for market trend 133,5810,661,5.57,North America,Competitor activity for trend 133,2023-11-08,2024-05-28
+134,210,2024-04-01,Description for market trend 134,9958,3269,5.94,Europe,Competitor activity for trend 134,2024-05-12,2024-02-26
+135,29,2023-09-30,Description for market trend 135,3748,1752,7.17,Africa,Competitor activity for trend 135,2024-05-02,2024-03-02
+136,183,2023-12-14,Description for market trend 136,9705,6460,1.52,Europe,Competitor activity for trend 136,2023-09-09,2024-05-07
+137,118,2023-10-03,Description for market trend 137,8463,826,8.88,Australia,Competitor activity for trend 137,2024-01-15,2024-05-16
+138,69,2024-05-09,Description for market trend 138,4758,5086,9.49,Europe,Competitor activity for trend 138,2023-07-21,2024-06-12
+139,217,2024-04-17,Description for market trend 139,5260,8301,6.6,Africa,Competitor activity for trend 139,2024-03-02,2024-05-03
+140,28,2023-08-17,Description for market trend 140,3261,2246,8.19,Australia,Competitor activity for trend 140,2023-11-21,2024-03-24
+141,109,2024-02-24,Description for market trend 141,320,9260,3.72,Africa,Competitor activity for trend 141,2023-07-16,2024-06-07
+142,213,2024-01-12,Description for market trend 142,8685,204,3.31,Africa,Competitor activity for trend 142,2023-07-21,2024-03-30
+143,222,2023-08-08,Description for market trend 143,1607,1624,9.99,Asia,Competitor activity for trend 143,2023-11-09,2024-05-13
+144,105,2024-03-24,Description for market trend 144,261,4182,5.37,Australia,Competitor activity for trend 144,2023-07-19,2024-05-03
+145,231,2024-05-21,Description for market trend 145,7745,1767,5.83,Asia,Competitor activity for trend 145,2024-01-28,2024-04-04
+146,67,2023-11-26,Description for market trend 146,5343,6170,1.17,South America,Competitor activity for trend 146,2023-09-01,2024-01-19
+147,108,2024-02-28,Description for market trend 147,997,3378,9.75,North America,Competitor activity for trend 147,2023-08-24,2024-06-04
+148,90,2023-09-30,Description for market trend 148,9280,1516,5.92,Europe,Competitor activity for trend 148,2023-10-11,2024-05-19
+149,85,2024-04-06,Description for market trend 149,7444,3922,6.22,South America,Competitor activity for trend 149,2023-07-02,2024-06-19
+150,294,2023-08-07,Description for market trend 150,2669,359,2.7,Africa,Competitor activity for trend 150,2024-01-29,2023-12-31
+151,114,2023-07-28,Description for market trend 151,5809,3476,9.0,North America,Competitor activity for trend 151,2024-03-28,2024-03-27
+152,219,2023-10-25,Description for market trend 152,5774,5750,1.14,Africa,Competitor activity for trend 152,2024-05-30,2024-04-25
+153,241,2023-09-25,Description for market trend 153,6435,9178,9.11,Asia,Competitor activity for trend 153,2024-03-29,2024-01-16
+154,188,2024-03-26,Description for market trend 154,3635,1222,9.24,North America,Competitor activity for trend 154,2023-12-01,2024-06-20
+155,241,2024-06-10,Description for market trend 155,5370,8045,5.28,Europe,Competitor activity for trend 155,2023-07-31,2024-05-19
+156,215,2023-07-04,Description for market trend 156,8636,6550,9.76,Asia,Competitor activity for trend 156,2024-01-26,2024-04-05
+157,69,2023-11-10,Description for market trend 157,6552,8242,8.12,Africa,Competitor activity for trend 157,2024-05-30,2023-12-28
+158,244,2023-07-15,Description for market trend 158,8701,1523,4.31,South America,Competitor activity for trend 158,2024-02-08,2024-06-09
+159,82,2024-01-29,Description for market trend 159,8752,7154,2.66,Africa,Competitor activity for trend 159,2023-12-20,2024-01-30
+160,58,2024-01-24,Description for market trend 160,941,5118,4.79,Europe,Competitor activity for trend 160,2023-09-28,2024-03-18
+161,248,2024-06-13,Description for market trend 161,8456,5369,8.47,Asia,Competitor activity for trend 161,2023-07-10,2024-02-17
+162,192,2024-02-06,Description for market trend 162,5481,8921,4.45,Asia,Competitor activity for trend 162,2024-02-08,2024-01-02
+163,278,2024-01-04,Description for market trend 163,8356,1788,1.16,Asia,Competitor activity for trend 163,2024-03-21,2024-05-15
+164,9,2024-02-27,Description for market trend 164,6702,5536,8.82,Asia,Competitor activity for trend 164,2023-09-18,2024-02-28
+165,113,2023-07-28,Description for market trend 165,6781,6386,4.5,Europe,Competitor activity for trend 165,2024-03-12,2024-01-14
+166,265,2023-10-04,Description for market trend 166,8868,5076,3.82,Australia,Competitor activity for trend 166,2024-03-03,2024-05-10
+167,284,2024-05-18,Description for market trend 167,5074,7688,8.12,South America,Competitor activity for trend 167,2023-12-12,2024-03-23
+168,4,2023-11-17,Description for market trend 168,6815,2573,5.9,Europe,Competitor activity for trend 168,2024-02-11,2024-03-19
+169,177,2024-03-26,Description for market trend 169,302,281,7.0,Africa,Competitor activity for trend 169,2023-08-15,2024-03-13
+170,219,2024-06-03,Description for market trend 170,8199,2144,9.04,Australia,Competitor activity for trend 170,2023-07-19,2024-01-27
+171,278,2023-09-17,Description for market trend 171,3518,1922,2.56,South America,Competitor activity for trend 171,2023-10-01,2024-04-24
+172,101,2023-08-10,Description for market trend 172,1312,2844,6.09,Australia,Competitor activity for trend 172,2023-08-19,2024-05-26
+173,249,2024-01-23,Description for market trend 173,7747,6822,5.08,Europe,Competitor activity for trend 173,2024-03-17,2024-05-22
+174,69,2023-10-14,Description for market trend 174,6575,7529,6.8,Africa,Competitor activity for trend 174,2023-12-26,2024-03-10
+175,215,2024-03-01,Description for market trend 175,9870,6705,6.98,Europe,Competitor activity for trend 175,2023-10-14,2024-06-14
+176,164,2023-07-31,Description for market trend 176,9591,3604,5.62,Asia,Competitor activity for trend 176,2024-05-12,2024-04-22
+177,172,2024-03-08,Description for market trend 177,2411,8495,9.45,Australia,Competitor activity for trend 177,2023-10-09,2024-05-21
+178,172,2023-08-16,Description for market trend 178,681,829,7.8,Africa,Competitor activity for trend 178,2024-04-25,2024-01-17
+179,261,2023-08-20,Description for market trend 179,5609,3348,5.57,North America,Competitor activity for trend 179,2024-03-07,2024-02-23
+180,280,2024-01-06,Description for market trend 180,789,2679,5.96,Europe,Competitor activity for trend 180,2023-12-21,2024-02-01
+181,249,2023-08-05,Description for market trend 181,7281,8198,8.5,South America,Competitor activity for trend 181,2023-07-16,2024-03-22
+182,67,2023-07-17,Description for market trend 182,8236,7772,1.96,South America,Competitor activity for trend 182,2023-09-19,2024-01-13
+183,209,2023-12-22,Description for market trend 183,6966,5922,2.88,Europe,Competitor activity for trend 183,2024-05-25,2024-02-11
+184,107,2023-11-08,Description for market trend 184,7866,6924,2.21,Europe,Competitor activity for trend 184,2023-12-17,2024-02-03
+185,118,2023-11-12,Description for market trend 185,9977,6637,8.26,Asia,Competitor activity for trend 185,2023-07-23,2024-02-23
+186,278,2024-04-21,Description for market trend 186,916,6040,1.37,South America,Competitor activity for trend 186,2023-07-31,2024-02-16
+187,241,2024-02-15,Description for market trend 187,3522,3721,2.56,Asia,Competitor activity for trend 187,2024-04-08,2024-03-12
+188,189,2023-07-22,Description for market trend 188,235,1395,3.26,Africa,Competitor activity for trend 188,2024-01-13,2024-02-24
+189,1,2024-03-09,Description for market trend 189,7489,4427,1.64,Europe,Competitor activity for trend 189,2024-06-09,2024-06-03
+190,62,2024-06-20,Description for market trend 190,3393,8752,4.88,North America,Competitor activity for trend 190,2023-07-29,2024-02-05
+191,47,2023-09-17,Description for market trend 191,214,7253,3.2,Asia,Competitor activity for trend 191,2024-01-08,2024-03-15
+192,221,2024-01-28,Description for market trend 192,8296,1799,9.02,South America,Competitor activity for trend 192,2023-07-25,2024-03-26
+193,191,2024-05-21,Description for market trend 193,3194,2192,7.86,North America,Competitor activity for trend 193,2024-05-26,2024-04-14
+194,63,2023-11-12,Description for market trend 194,242,565,5.24,Africa,Competitor activity for trend 194,2023-10-17,2024-01-19
+195,43,2023-07-04,Description for market trend 195,1982,988,5.57,Asia,Competitor activity for trend 195,2024-01-03,2024-02-23
+196,100,2023-08-11,Description for market trend 196,1773,494,8.03,North America,Competitor activity for trend 196,2023-12-20,2024-04-20
+197,230,2024-01-12,Description for market trend 197,9892,2235,2.39,Australia,Competitor activity for trend 197,2024-01-04,2024-04-11
+198,9,2023-08-31,Description for market trend 198,7635,7164,3.29,Australia,Competitor activity for trend 198,2023-12-28,2024-06-21
+199,153,2023-08-20,Description for market trend 199,254,4130,1.43,North America,Competitor activity for trend 199,2023-07-11,2024-02-12
+200,196,2024-01-17,Description for market trend 200,7708,9209,1.89,Australia,Competitor activity for trend 200,2024-03-15,2024-06-20

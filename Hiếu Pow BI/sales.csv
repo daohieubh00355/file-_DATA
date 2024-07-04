@@ -1,0 +1,1601 @@
+SaleID,SaleDate,CustomerID,ProductID,Quantity,UnitPrice,TotalAmount,Discount,Tax,PaymentMethod,ShippingAddress,ShippingDate,DeliveryStatus
+1,2023-01-29,742,199,2,438.35,6953.77,0.21,0.08,Debit Card,"824 Anna Mews Apt. 608
+East Douglas, WY 54123",2022-07-29,Cancelled
+2,2022-05-16,637,110,3,229.76,725.73,0.03,0.15,Debit Card,"USCGC Carson
+FPO AE 60997",2023-06-10,Pending
+3,2023-10-11,420,27,8,84.79,5019.64,0.09,0.04,Debit Card,"66484 Mary Well
+Port Mary, GA 17610",2020-06-02,Delivered
+4,2022-06-10,359,162,16,251.34,7185.82,0.13,0.13,Credit Card,"3649 Arthur Canyon Suite 244
+South Judith, PA 28212",2022-07-05,Shipped
+5,2021-03-21,588,177,16,361.8,2101.21,0.26,0.0,Cash,"8272 Ashley Island
+Tyronefort, MN 60350",2022-12-16,Shipped
+6,2021-03-31,256,23,19,424.88,5683.77,0.08,0.02,Credit Card,"4088 Hunt Squares Apt. 523
+New Christopher, SD 59092",2023-07-31,Shipped
+7,2021-09-18,707,93,4,329.17,6421.96,0.18,0.05,Debit Card,"Unit 7065 Box 0038
+DPO AA 76075",2021-04-16,Pending
+8,2022-02-06,95,172,13,412.24,279.12,0.22,0.14,Credit Card,"USNS Schultz
+FPO AA 81087",2020-01-20,Shipped
+9,2021-10-09,956,128,13,390.65,1027.81,0.19,0.04,Debit Card,"8908 Owen Junction Suite 095
+Darleneport, WA 60595",2022-04-17,Cancelled
+10,2022-09-09,908,195,18,298.72,9993.71,0.29,0.02,Cash,"6772 Smith Alley Apt. 403
+Zacharyhaven, PA 76691",2023-02-25,Pending
+11,2022-02-01,596,24,1,15.87,6011.65,0.0,0.08,Cash,"364 Joel Ports Apt. 545
+Port Stevenborough, HI 77608",2023-06-15,Cancelled
+12,2022-06-17,682,120,18,402.07,2740.57,0.14,0.07,Online Payment,"1998 Garza Ville
+Wallaceland, LA 31114",2023-11-13,Shipped
+13,2022-02-10,684,196,6,477.23,9736.38,0.24,0.09,Debit Card,"1567 Brandy Drive
+North Jay, IL 71297",2022-11-23,Cancelled
+14,2020-04-27,827,193,19,264.03,3031.34,0.18,0.18,Credit Card,"386 Thomas Shore Suite 006
+New Karenside, DE 09550",2023-07-25,Cancelled
+15,2023-11-15,658,26,3,381.8,5006.1,0.21,0.03,Cash,"5805 Bell Extensions Suite 946
+North Tina, ND 44678",2022-10-29,Shipped
+16,2020-02-01,472,38,18,136.29,7196.31,0.16,0.02,Online Payment,"66750 Chad Passage
+South Alexis, WI 04006",2022-03-08,Cancelled
+17,2023-05-03,985,98,1,266.83,8237.47,0.16,0.13,Debit Card,"26548 Mary Roads Apt. 189
+Castillofurt, ND 01053",2022-07-11,Shipped
+18,2020-12-25,594,139,11,364.52,4864.12,0.16,0.02,Online Payment,"310 Walton Stream Apt. 522
+Boydside, WY 29239",2021-02-10,Delivered
+19,2022-04-21,993,38,20,146.52,7558.81,0.02,0.05,Credit Card,"822 Jeremy Throughway
+Port Jacobville, PA 56930",2021-10-25,Pending
+20,2020-04-27,503,164,2,250.47,3595.74,0.19,0.17,Online Payment,"0772 Camacho Green
+Jackfurt, GA 46417",2021-11-27,Pending
+21,2022-02-10,56,122,8,480.08,8405.48,0.21,0.08,Cash,"089 Joshua Hollow Apt. 544
+Williamfurt, DE 38472",2023-07-31,Shipped
+22,2022-03-18,997,115,5,302.84,2513.85,0.02,0.14,Cash,"5882 Page Vista
+Pachecoborough, LA 65608",2022-02-04,Shipped
+23,2022-01-10,926,20,9,105.75,6982.28,0.1,0.05,Online Payment,"24251 Chris Glen Apt. 441
+Atkinsonhaven, OR 84559",2020-02-21,Delivered
+24,2023-10-09,497,90,16,340.61,7487.41,0.25,0.04,Cash,"40730 Espinoza Roads Apt. 755
+East Samanthaton, UT 28044",2020-04-11,Shipped
+25,2023-07-06,301,68,11,111.86,4577.03,0.29,0.02,Cash,"56866 Amanda Glens Apt. 443
+Jimenezland, MS 50193",2023-11-20,Shipped
+26,2020-09-21,895,23,10,240.41,1401.22,0.25,0.13,Credit Card,"9013 Sabrina Hill Suite 673
+Stephaniemouth, ND 66482",2022-02-08,Pending
+27,2023-03-10,753,145,9,70.9,9069.01,0.09,0.05,Credit Card,"USS Stephenson
+FPO AP 77260",2023-07-26,Cancelled
+28,2021-04-15,763,155,20,471.49,831.33,0.09,0.01,Online Payment,"5466 Griffin Mews Suite 163
+Briannaland, NV 31849",2022-11-16,Shipped
+29,2023-09-05,669,166,20,265.95,5014.29,0.07,0.1,Online Payment,"198 Karina Club Apt. 246
+Reedton, KS 01874",2023-09-03,Shipped
+30,2020-08-09,892,65,12,182.34,1570.37,0.28,0.18,Cash,"5925 Mccormick Crest
+Summerchester, TX 23634",2021-11-10,Pending
+31,2021-09-28,612,173,17,192.11,7924.66,0.19,0.09,Online Payment,"932 Brandon Alley
+Larsonfort, OK 36276",2021-01-29,Pending
+32,2021-03-16,124,3,13,73.45,5102.53,0.14,0.11,Credit Card,"6288 Evans Coves
+New Joseph, IA 97384",2021-01-27,Cancelled
+33,2021-12-04,508,34,18,484.6,6410.2,0.0,0.07,Online Payment,"33686 Wong Circle Apt. 231
+Jeffreymouth, MT 69297",2022-09-05,Shipped
+34,2021-05-30,597,28,12,147.42,3366.47,0.21,0.11,Cash,"USNV Newman
+FPO AA 30335",2022-11-12,Shipped
+35,2021-05-29,272,101,13,200.31,2694.28,0.0,0.1,Credit Card,"3503 Powell Orchard
+Garyview, AZ 91317",2020-05-22,Shipped
+36,2021-07-13,949,25,18,235.01,6866.13,0.28,0.02,Credit Card,"7645 Rachel Spur
+Salazarfurt, NE 27284",2021-12-14,Shipped
+37,2023-08-12,421,1,13,427.97,2685.45,0.03,0.13,Online Payment,"153 Lopez Land Suite 976
+Saramouth, CT 50169",2020-02-29,Delivered
+38,2021-01-02,837,148,10,179.43,852.02,0.03,0.09,Online Payment,"1620 Gonzalez Island
+Lewishaven, PA 45312",2020-12-03,Pending
+39,2020-01-02,731,161,13,344.58,213.54,0.16,0.11,Debit Card,"USCGC Miller
+FPO AP 70333",2021-09-08,Delivered
+40,2022-07-11,544,71,10,285.37,9683.56,0.02,0.11,Cash,"6463 Ward Streets Suite 966
+West Jacob, TN 00517",2020-11-17,Cancelled
+41,2023-04-13,422,190,19,163.37,4713.05,0.07,0.08,Debit Card,"219 Anthony Circle
+New Josephchester, MA 38120",2021-02-16,Delivered
+42,2022-12-29,865,61,12,323.7,6620.77,0.09,0.15,Cash,"769 Chandler Village Suite 661
+West Erinport, MA 50993",2020-03-08,Pending
+43,2020-07-23,507,45,11,33.8,1718.6,0.19,0.11,Debit Card,"21194 Jenna Course
+West Dennistown, MA 66784",2023-03-09,Shipped
+44,2021-09-05,455,163,13,292.15,3707.01,0.1,0.14,Online Payment,"2277 Trevor Vista Suite 935
+Levineland, IN 70601",2023-09-16,Cancelled
+45,2021-03-25,375,193,2,107.85,3796.43,0.08,0.18,Credit Card,"71777 Kimberly Skyway
+Mckeeberg, ME 67592",2020-05-22,Delivered
+46,2020-03-11,406,20,1,244.28,1004.52,0.25,0.12,Debit Card,"1166 Stephanie Rest Apt. 416
+East Judithshire, NH 77285",2023-01-18,Delivered
+47,2020-07-12,938,178,14,219.03,6427.6,0.04,0.07,Debit Card,"49209 Chapman Point Apt. 043
+North Rebecca, MD 68285",2022-01-04,Delivered
+48,2022-01-02,782,29,7,390.29,4820.71,0.27,0.02,Online Payment,"969 Tanya Track Suite 193
+Katelynfurt, SC 68049",2020-12-13,Pending
+49,2023-12-16,675,190,8,138.84,7144.2,0.27,0.16,Credit Card,"326 Mccall Dam Apt. 189
+West Jamesside, NC 68742",2022-10-25,Delivered
+50,2022-11-18,293,148,14,190.95,6434.78,0.08,0.03,Cash,"9932 Osborne Square
+Jessicaborough, VA 13396",2021-05-23,Shipped
+51,2022-02-11,233,194,15,98.86,941.53,0.18,0.13,Online Payment,"USS Villegas
+FPO AA 07378",2020-05-22,Delivered
+52,2022-04-02,796,190,5,462.32,6373.75,0.06,0.08,Cash,"197 Anderson Locks Suite 118
+Taylorhaven, OR 19090",2021-01-06,Pending
+53,2020-03-15,425,103,20,11.52,1431.77,0.28,0.02,Cash,"0284 Jennifer Estates
+Kimport, GA 45462",2020-07-29,Shipped
+54,2022-12-02,221,150,8,269.78,3271.35,0.27,0.14,Online Payment,"64954 Clayton Grove Apt. 084
+Michaelburgh, CA 20352",2023-12-18,Pending
+55,2022-03-13,60,31,3,344.47,6520.67,0.06,0.15,Online Payment,"19439 Alan Parkways Suite 455
+Edwardview, MI 18167",2022-11-02,Shipped
+56,2023-03-01,33,197,5,111.92,2727.72,0.3,0.11,Online Payment,"992 Johnson Ridge Apt. 662
+Lake Melissa, VT 23990",2023-07-14,Cancelled
+57,2020-02-04,792,137,3,429.55,4094.14,0.2,0.16,Credit Card,"5382 Gomez Expressway
+Bentonmouth, TN 67716",2021-11-30,Cancelled
+58,2023-01-14,598,121,20,456.8,2186.08,0.18,0.05,Debit Card,"PSC 4151, Box 5019
+APO AP 50448",2022-06-18,Cancelled
+59,2023-05-29,608,177,19,19.77,4596.69,0.19,0.12,Cash,"9071 Emily View
+Snyderbury, MO 45753",2023-06-07,Shipped
+60,2023-05-04,942,55,13,421.54,232.95,0.27,0.08,Online Payment,"329 Hebert Mills
+North Reneebury, NM 83849",2021-08-09,Delivered
+61,2020-11-27,378,99,14,403.49,4990.3,0.12,0.13,Online Payment,"0025 Farmer Cape
+Paulborough, DE 62101",2022-06-11,Shipped
+62,2023-10-08,892,174,6,321.32,2615.44,0.1,0.19,Online Payment,"51691 Hall Way Apt. 314
+Lake Bobby, DC 85775",2021-07-29,Delivered
+63,2023-08-29,527,22,10,326.01,4147.91,0.03,0.2,Credit Card,"937 Shane Falls
+Angelamouth, CT 75277",2020-12-11,Shipped
+64,2021-11-07,860,176,3,99.48,4115.17,0.28,0.12,Credit Card,"012 Schroeder Knolls Suite 357
+Taylorfort, CO 69801",2021-10-25,Shipped
+65,2021-06-19,243,140,2,67.86,4048.26,0.13,0.18,Credit Card,"5817 Matthew Mountains Suite 653
+Lake Christopherborough, MS 17688",2021-10-28,Pending
+66,2023-09-20,831,33,8,431.01,9458.78,0.28,0.13,Cash,"323 Anthony Ville
+South Albertland, AZ 91838",2023-06-20,Delivered
+67,2021-04-16,621,86,10,473.34,2504.96,0.26,0.02,Credit Card,"82876 Marie Pass Suite 747
+New Williamville, NJ 54705",2022-02-25,Shipped
+68,2021-06-13,198,189,13,477.85,2794.57,0.2,0.14,Debit Card,"0600 Matthew Squares
+Castanedaburgh, NH 13374",2022-07-11,Shipped
+69,2021-05-20,532,191,19,164.65,6271.78,0.18,0.06,Cash,"042 Cody Squares Suite 897
+West Darlene, AZ 06339",2021-06-21,Shipped
+70,2023-10-30,111,186,7,40.58,5560.53,0.01,0.19,Debit Card,"55259 Robert Gateway
+Port Robertview, GA 06045",2022-07-28,Shipped
+71,2022-07-27,626,198,13,440.49,4511.66,0.27,0.18,Online Payment,"Unit 9715 Box 3420
+DPO AP 65269",2023-04-11,Delivered
+72,2021-05-11,877,170,4,392.61,4571.99,0.28,0.1,Online Payment,"PSC 3949, Box 2621
+APO AE 96943",2020-04-30,Delivered
+73,2022-08-01,53,172,4,410.54,7997.82,0.26,0.13,Cash,"9065 Carol Rapids Suite 591
+Turnerville, ID 68033",2021-06-04,Pending
+74,2021-09-04,819,165,2,445.26,1230.45,0.19,0.16,Online Payment,"38207 Amanda Oval Suite 530
+Lawrencestad, WA 17142",2020-11-23,Delivered
+75,2022-03-02,554,4,19,187.29,2194.46,0.07,0.16,Credit Card,"28984 Mckee View Apt. 370
+Davisport, OH 96928",2022-01-05,Pending
+76,2020-02-18,713,58,6,142.78,3363.22,0.07,0.02,Debit Card,"1564 Kimberly Ridges Apt. 671
+Nicholasshire, WA 24447",2020-08-24,Pending
+77,2021-04-05,148,176,14,364.6,9452.2,0.17,0.13,Debit Card,"377 Delgado Ford
+West Rachelborough, MS 82570",2023-12-09,Shipped
+78,2021-11-28,327,183,12,450.47,4886.32,0.23,0.14,Online Payment,"9237 Sarah Stream
+West Dustinstad, ME 73451",2021-06-04,Pending
+79,2023-03-24,287,50,5,412.31,8932.5,0.28,0.1,Online Payment,"USNV Wise
+FPO AP 83773",2022-01-17,Delivered
+80,2021-07-24,705,173,1,145.82,5695.41,0.07,0.04,Debit Card,"6013 Bobby River
+North Phillipmouth, LA 85757",2023-04-05,Cancelled
+81,2021-05-03,87,172,1,381.55,5665.51,0.3,0.18,Debit Card,"9559 Rachel Forks
+Stephanieton, MD 74660",2022-04-01,Shipped
+82,2020-01-30,884,44,17,81.12,5976.33,0.17,0.18,Credit Card,"7840 Long Summit
+Parksmouth, TX 60221",2021-02-21,Shipped
+83,2020-12-01,399,37,11,467.53,9176.55,0.12,0.15,Cash,"81025 Jeremy Well Apt. 475
+Lisaville, KY 99326",2020-12-22,Cancelled
+84,2022-03-12,959,144,13,103.71,1521.82,0.23,0.15,Credit Card,"65782 Timothy Course
+South Ericmouth, PA 00717",2021-11-17,Pending
+85,2021-07-12,583,68,8,58.11,8882.8,0.01,0.09,Cash,"59291 Michael Rapid Apt. 300
+Anthonytown, SC 03681",2020-06-16,Shipped
+86,2022-03-31,323,43,13,210.14,6473.81,0.11,0.19,Debit Card,"53881 Tanya Knoll
+Melissamouth, ND 51745",2023-07-24,Cancelled
+87,2021-01-13,531,193,15,440.08,7943.06,0.24,0.0,Cash,"51704 Lewis Mews Apt. 158
+East Emily, CT 47527",2022-07-03,Cancelled
+88,2021-02-18,547,177,14,392.71,4256.53,0.26,0.04,Debit Card,"8110 Steven Loop
+Port Justinton, HI 32350",2022-11-13,Shipped
+89,2022-01-28,138,39,5,89.75,7966.91,0.0,0.09,Cash,"5168 Kelly Station Apt. 332
+Port Haley, NE 59046",2022-09-17,Cancelled
+90,2021-02-17,405,156,20,73.2,822.59,0.29,0.02,Debit Card,"60739 Kathleen Fall
+North Josephview, ME 17792",2023-03-30,Delivered
+91,2022-04-16,766,42,16,492.07,204.51,0.01,0.19,Cash,"7632 Richard Ferry
+East Tamarahaven, GA 50534",2023-12-30,Delivered
+92,2022-01-12,458,51,15,451.12,4230.92,0.06,0.08,Online Payment,"54611 Campos Estates Suite 254
+South Ashley, AK 73241",2022-01-17,Shipped
+93,2022-07-14,261,82,2,309.39,5861.51,0.09,0.1,Debit Card,"USCGC Watts
+FPO AA 86584",2020-09-30,Delivered
+94,2021-09-08,268,22,14,72.93,5915.68,0.29,0.01,Cash,"892 Carol Points
+Greenborough, WA 06470",2023-04-10,Pending
+95,2020-08-18,109,37,2,214.09,9367.53,0.26,0.1,Cash,"519 James Junction Apt. 978
+East Timothyhaven, MO 16227",2023-10-30,Delivered
+96,2021-08-21,435,137,10,396.87,2667.57,0.09,0.05,Online Payment,"75393 Christine Forest Apt. 176
+Port Kelly, RI 59147",2021-10-24,Shipped
+97,2020-08-01,506,181,10,117.03,8937.63,0.09,0.2,Debit Card,"64822 Duncan Mission
+Bakerville, IL 98044",2020-12-12,Delivered
+98,2020-05-12,647,101,8,45.47,8084.16,0.29,0.07,Credit Card,"8325 James Lock Apt. 644
+Jenkinsburgh, CT 52562",2023-07-13,Pending
+99,2023-03-05,688,96,16,481.75,2873.41,0.21,0.07,Cash,"3156 David Road Suite 151
+Carolynborough, WA 72161",2020-05-06,Pending
+100,2022-04-12,876,33,2,429.2,9136.91,0.23,0.19,Cash,"11608 Colon Squares
+Carriefort, PA 68232",2021-08-21,Pending
+101,2023-09-01,201,135,3,271.25,5219.16,0.26,0.06,Debit Card,"1926 Joshua Meadows Apt. 019
+South Linda, MO 70741",2021-01-15,Cancelled
+102,2023-02-15,227,98,2,141.98,1743.12,0.03,0.13,Debit Card,"206 Pratt Roads
+Brittneyburgh, GA 41154",2022-05-05,Cancelled
+103,2020-01-23,124,181,1,110.06,2964.71,0.22,0.14,Debit Card,"7726 Johnston Ports
+New Rebecca, WV 55045",2023-05-26,Delivered
+104,2022-11-08,476,140,5,413.68,2521.93,0.27,0.15,Debit Card,"82064 Wagner Harbor
+North Michaelburgh, CA 11971",2020-06-16,Delivered
+105,2023-03-25,463,124,2,368.66,2559.96,0.23,0.04,Credit Card,"742 Blake Isle
+Youngmouth, GA 22353",2023-05-07,Shipped
+106,2023-09-16,423,118,5,366.17,2300.99,0.06,0.01,Cash,"890 Natalie Walks
+Port Susan, OK 99896",2022-12-15,Pending
+107,2021-05-24,948,182,17,316.96,6162.3,0.07,0.01,Cash,"9350 Kristen Park Suite 338
+Millerstad, IA 13705",2023-04-12,Pending
+108,2021-02-10,674,71,17,57.08,8588.76,0.19,0.13,Cash,"2416 Sierra Glens Suite 138
+Allenton, MN 52927",2022-05-31,Pending
+109,2021-03-09,318,16,20,303.35,108.62,0.08,0.1,Credit Card,"13816 Parker Mews Suite 205
+Port Justinmouth, WV 54779",2022-10-16,Pending
+110,2020-03-02,599,131,5,148.1,5128.18,0.25,0.02,Online Payment,"463 Herrera Cove Suite 092
+Lake Brendastad, FL 12980",2023-11-29,Cancelled
+111,2022-01-17,640,16,15,203.76,541.4,0.17,0.15,Debit Card,"7083 Stephen Valley
+West Philipside, UT 33529",2023-01-30,Delivered
+112,2021-10-30,525,186,3,191.41,5541.39,0.16,0.11,Online Payment,"5860 Cody Park Apt. 523
+Port Davidfurt, IA 06494",2021-09-08,Pending
+113,2021-05-01,549,176,19,485.66,2524.83,0.29,0.11,Cash,"Unit 2975 Box 1324
+DPO AP 35633",2023-04-12,Cancelled
+114,2022-05-05,72,171,7,287.31,2262.12,0.25,0.04,Credit Card,"83371 Christine Oval Apt. 843
+Curtisfort, TX 79993",2020-06-25,Delivered
+115,2023-10-20,128,66,4,27.94,3702.18,0.04,0.09,Debit Card,"640 Brian Keys
+Ginaport, NH 85397",2020-01-12,Shipped
+116,2022-04-07,470,171,7,354.56,5243.13,0.11,0.17,Cash,"14724 Williams Mills
+South Robertfurt, WA 96439",2020-03-15,Pending
+117,2020-09-20,722,197,2,393.72,4867.03,0.05,0.0,Online Payment,"17130 Christopher Circles Suite 946
+New Lori, HI 03245",2020-07-01,Pending
+118,2022-03-11,199,121,15,149.7,2763.42,0.03,0.01,Online Payment,"03036 Nicolas Corner Apt. 157
+South David, KY 98009",2022-08-07,Cancelled
+119,2020-04-30,487,39,10,263.88,5344.04,0.19,0.18,Cash,"2715 Sean Plain
+Pageberg, VA 46768",2022-03-13,Pending
+120,2021-05-11,785,137,14,311.31,6925.38,0.08,0.12,Online Payment,"7362 Kelsey Estate
+Harrellmouth, ND 16601",2021-09-11,Pending
+121,2020-10-13,133,178,12,184.41,5429.66,0.07,0.06,Debit Card,"5427 Watts Estates
+Johnsonton, NJ 73282",2021-10-24,Shipped
+122,2020-11-01,249,175,11,416.45,6957.53,0.01,0.05,Online Payment,"175 Cody Ports
+Franklinmouth, NJ 41168",2020-01-21,Shipped
+123,2023-01-05,834,168,9,315.02,6198.94,0.18,0.11,Debit Card,"5154 Mendoza Rue
+Warrenville, WI 25803",2021-03-16,Pending
+124,2021-09-02,732,100,14,464.67,4429.85,0.02,0.14,Debit Card,"8179 Jones Roads Suite 050
+New Sabrina, DC 95745",2023-01-24,Delivered
+125,2022-07-28,57,136,3,213.77,1127.02,0.09,0.1,Online Payment,"5277 Obrien Pine
+Montgomerystad, CT 06046",2023-06-10,Shipped
+126,2021-07-22,899,112,13,305.53,8551.19,0.2,0.05,Credit Card,"74647 Sherry Stravenue Apt. 184
+Port Jonathanton, AK 12261",2021-02-23,Shipped
+127,2022-08-20,194,97,19,494.92,650.97,0.1,0.2,Credit Card,"03823 Tapia Rapids Suite 586
+Johnside, NH 23799",2022-03-21,Cancelled
+128,2020-03-16,470,181,15,490.77,8302.9,0.27,0.08,Debit Card,"8766 Wallace Wall Suite 448
+East Samuel, PA 98395",2021-01-14,Cancelled
+129,2021-10-21,32,168,14,143.5,4877.29,0.17,0.03,Cash,"1591 Lee Manor
+Scottfurt, AZ 51261",2020-01-30,Shipped
+130,2021-03-16,808,95,8,267.56,4691.61,0.08,0.01,Online Payment,"218 Kevin Hollow
+Tylerside, GA 05009",2023-06-30,Delivered
+131,2021-04-13,511,158,16,177.49,7676.22,0.1,0.12,Credit Card,"322 Woodard Roads Apt. 948
+Rodriguezville, NJ 03461",2023-01-02,Cancelled
+132,2022-03-02,485,29,14,27.07,8140.8,0.18,0.11,Cash,"484 Trevor Isle
+East Lori, IN 11801",2021-10-20,Cancelled
+133,2020-01-20,516,90,2,389.36,4220.07,0.29,0.01,Online Payment,"6274 Linda Green Suite 032
+Thomasport, MD 77138",2022-04-06,Delivered
+134,2023-06-10,142,147,10,136.31,5586.53,0.04,0.06,Credit Card,"USNS Hernandez
+FPO AE 02076",2022-01-16,Delivered
+135,2023-12-08,432,119,1,246.44,6253.98,0.05,0.12,Debit Card,"114 Preston Terrace
+South Clayton, ME 34051",2022-11-23,Delivered
+136,2022-07-31,284,150,13,30.73,9897.74,0.05,0.13,Cash,"597 Kelly Streets
+Drewberg, MO 42775",2023-10-21,Cancelled
+137,2020-12-02,851,67,18,284.21,2565.32,0.2,0.02,Cash,"04846 Baker Throughway Suite 516
+South Donna, MA 60964",2022-08-01,Pending
+138,2020-01-26,301,3,17,293.34,5868.76,0.19,0.08,Debit Card,"001 Dennis Greens Apt. 785
+Julieville, NJ 80393",2020-09-29,Shipped
+139,2021-01-26,184,97,17,479.72,3274.12,0.18,0.18,Cash,"32898 George Turnpike
+Tuckerside, AR 65261",2023-02-15,Delivered
+140,2021-01-28,77,144,9,447.01,8387.31,0.22,0.05,Credit Card,"036 Matthew Ford
+Lake Cameronport, AR 34729",2021-08-29,Pending
+141,2021-10-19,1000,77,11,218.66,4217.55,0.14,0.19,Online Payment,"99115 Wallace Forges Suite 245
+Mcbrideburgh, IA 73807",2023-08-23,Shipped
+142,2023-09-19,890,169,13,467.7,6948.57,0.16,0.13,Online Payment,"53722 Kerri Tunnel Suite 835
+Patriciaview, IA 95014",2023-10-28,Delivered
+143,2022-01-28,548,193,6,383.94,1712.96,0.17,0.06,Debit Card,"1931 Vargas Roads
+North Jeffreyfurt, ID 92404",2020-10-23,Delivered
+144,2022-06-18,138,25,6,205.8,1052.8,0.17,0.08,Cash,"8125 Smith Courts
+Port Danielleburgh, AZ 55577",2022-07-04,Pending
+145,2020-06-03,988,108,20,96.99,3879.27,0.14,0.14,Cash,"97593 Green Groves
+Joshuahaven, OK 77100",2022-08-26,Cancelled
+146,2023-09-09,837,200,1,202.44,6007.5,0.08,0.2,Online Payment,"6441 Smith Keys
+New Marieport, VT 33549",2022-04-26,Cancelled
+147,2021-09-20,251,33,7,106.21,9972.9,0.28,0.06,Cash,"260 Tucker Motorway
+Johnsonland, ID 14995",2023-11-13,Shipped
+148,2020-02-08,552,113,5,8.23,1029.77,0.14,0.16,Debit Card,"04981 Angela Rue
+Bowmanville, AR 01240",2022-03-03,Cancelled
+149,2023-02-23,968,66,17,334.61,5977.96,0.26,0.09,Credit Card,"PSC 3236, Box 6276
+APO AP 23696",2020-03-20,Pending
+150,2022-11-13,235,150,12,206.69,6498.43,0.25,0.03,Online Payment,"791 Katherine Crest
+Lake Jadeborough, MO 84370",2020-04-30,Cancelled
+151,2021-02-01,797,122,9,64.9,9817.7,0.24,0.13,Cash,"072 Crystal Forks
+South Phillip, OH 20675",2021-02-20,Pending
+152,2023-02-08,397,47,6,69.9,3230.52,0.01,0.17,Credit Card,"29383 Nicholas Junctions
+Austinview, IN 14685",2022-06-07,Cancelled
+153,2020-03-17,14,188,20,404.41,9196.43,0.16,0.16,Debit Card,"4982 Rachel Ways
+West Andrew, CO 04632",2021-09-17,Pending
+154,2021-05-01,434,21,8,453.02,1281.34,0.24,0.13,Debit Card,"9572 Jared River Apt. 793
+Lake Ryan, ME 86091",2022-11-25,Pending
+155,2022-12-09,725,21,19,352.29,4296.24,0.19,0.19,Online Payment,"3813 Lisa Rapid
+Stewartburgh, ID 96916",2020-04-29,Cancelled
+156,2022-06-30,500,43,1,185.76,7092.88,0.27,0.16,Cash,"959 Williams Heights Suite 387
+Reyesstad, CA 76992",2023-07-11,Cancelled
+157,2023-06-26,85,56,15,25.33,2834.34,0.23,0.15,Online Payment,"64383 Brown Manors Apt. 150
+New Stephenton, LA 44545",2021-11-24,Delivered
+158,2021-02-24,907,161,16,56.93,2248.63,0.25,0.19,Online Payment,"195 Theresa Crescent Apt. 386
+Bradmouth, IA 12389",2022-05-21,Cancelled
+159,2021-04-21,204,118,15,356.62,1493.2,0.02,0.15,Online Payment,"1373 Watts Mews Apt. 516
+New Brittany, MN 42222",2021-11-23,Shipped
+160,2020-04-05,834,151,9,198.79,9820.81,0.18,0.01,Credit Card,"Unit 5240 Box 0971
+DPO AP 52787",2021-06-01,Cancelled
+161,2022-01-20,570,151,5,347.68,1083.94,0.07,0.02,Debit Card,"PSC 7161, Box 2186
+APO AE 15614",2022-06-15,Shipped
+162,2020-03-08,696,100,4,199.65,3805.06,0.07,0.06,Cash,"2672 Smith Plaza Suite 853
+North Angelamouth, MI 18863",2022-07-01,Cancelled
+163,2020-06-30,796,182,19,283.22,8254.62,0.13,0.04,Cash,"92046 Williams Forges
+Webbtown, OH 06180",2021-07-13,Shipped
+164,2022-01-10,950,91,15,305.97,8021.48,0.16,0.03,Online Payment,"54301 Joy Mountain
+Brewerport, WY 14291",2021-03-06,Shipped
+165,2023-05-29,656,154,20,251.57,5560.04,0.11,0.06,Debit Card,"63014 Tina Viaduct
+South Sandramouth, FL 36042",2023-03-25,Pending
+166,2023-04-20,615,55,5,227.06,8054.94,0.08,0.14,Credit Card,"PSC 0447, Box 1614
+APO AE 60984",2020-04-03,Pending
+167,2020-12-18,601,189,4,437.54,9250.71,0.26,0.07,Cash,"266 Nichole Rapid Suite 362
+West David, MO 65068",2022-07-25,Delivered
+168,2021-02-13,224,14,2,217.09,4217.67,0.14,0.12,Credit Card,"977 Emily Roads
+Jonathanview, TX 01987",2023-01-22,Delivered
+169,2020-02-15,601,77,2,444.8,5956.72,0.22,0.14,Credit Card,"8421 Mayer Via Suite 920
+Stephenville, NV 24029",2023-04-11,Pending
+170,2020-06-25,524,122,17,124.17,9662.44,0.09,0.19,Cash,"3148 Preston Glens Suite 527
+Jonathanfurt, MD 60354",2023-02-11,Delivered
+171,2021-03-08,320,68,15,435.56,4769.92,0.06,0.12,Cash,"Unit 8144 Box 0907
+DPO AE 83115",2022-04-03,Cancelled
+172,2023-04-14,2,102,16,403.32,2350.03,0.11,0.13,Cash,"76259 Tracy Light Suite 954
+East Janetchester, SC 77571",2023-01-04,Shipped
+173,2023-09-23,523,111,6,229.88,1096.57,0.21,0.01,Credit Card,"55515 Stephen Land
+North Danielland, AZ 40337",2020-11-18,Shipped
+174,2022-04-01,469,83,15,165.48,7893.63,0.2,0.06,Online Payment,"63703 Dawn Rapid
+North Ryan, NH 04171",2023-03-09,Delivered
+175,2020-06-19,820,59,12,138.55,4572.57,0.04,0.11,Debit Card,"454 Morgan Passage
+North Victoriachester, MI 64413",2023-10-16,Delivered
+176,2021-11-19,56,97,8,24.9,5531.61,0.18,0.07,Debit Card,"15545 Jason Drives Apt. 467
+Robertville, GA 30912",2020-09-04,Shipped
+177,2020-05-10,10,85,1,346.45,3238.03,0.25,0.14,Cash,"9269 Chambers Route Suite 026
+Wandatown, VA 58751",2020-01-13,Pending
+178,2023-04-25,746,37,20,419.19,1265.91,0.11,0.16,Debit Card,"102 Charlene Estates Suite 624
+South Joshuatown, UT 18712",2021-12-12,Delivered
+179,2023-12-14,708,49,14,389.97,822.48,0.04,0.05,Debit Card,"126 Russo Divide
+Jacksonberg, CO 97859",2022-09-21,Pending
+180,2020-10-06,827,165,16,481.23,9683.43,0.01,0.16,Cash,"195 Stephens Extensions
+Georgebury, SD 91264",2023-09-23,Cancelled
+181,2020-12-02,799,122,4,439.13,3805.42,0.19,0.06,Online Payment,"759 Moss Passage
+Robertsside, NJ 18947",2021-03-28,Pending
+182,2020-01-26,24,100,7,295.63,3175.28,0.25,0.1,Credit Card,"3766 Levine Camp Suite 886
+Daviston, FL 42657",2021-07-04,Cancelled
+183,2021-07-29,674,158,19,471.14,8796.18,0.16,0.1,Credit Card,"45610 John Brooks
+Hudsonbury, OR 75860",2022-12-19,Cancelled
+184,2021-05-11,91,67,14,254.15,150.7,0.11,0.06,Debit Card,"71198 Jason Port
+Lake Richard, SC 27870",2022-05-12,Pending
+185,2021-06-17,942,16,1,316.35,1035.32,0.19,0.08,Credit Card,"06403 Justin Mission Apt. 321
+Cranemouth, DC 03114",2022-07-04,Shipped
+186,2022-05-21,19,34,5,109.94,9708.69,0.26,0.14,Online Payment,"Unit 4745 Box 0788
+DPO AA 16919",2021-01-26,Shipped
+187,2022-11-04,843,102,9,429.22,6159.06,0.0,0.17,Debit Card,"85373 Gabriel Path Apt. 729
+South Jessica, WY 24408",2022-02-11,Shipped
+188,2020-08-10,307,193,16,127.61,3264.06,0.01,0.16,Credit Card,"5452 Nguyen Pass
+West Jeremy, MI 20313",2022-12-03,Cancelled
+189,2023-03-09,941,164,16,335.2,3969.08,0.14,0.04,Credit Card,"632 Hartman Center
+North Jessica, DE 89792",2021-02-25,Delivered
+190,2023-12-06,551,168,13,479.25,8044.6,0.12,0.16,Online Payment,"275 Marquez Rue
+South Lorifurt, OH 40294",2021-11-03,Pending
+191,2023-04-24,64,42,1,233.2,1703.13,0.27,0.18,Online Payment,"79147 Jane Avenue Suite 164
+South Bradleyburgh, UT 97129",2022-11-09,Shipped
+192,2022-07-15,261,4,5,289.55,3173.4,0.26,0.03,Credit Card,"07339 Moran Road
+Jonesberg, CT 00659",2020-11-19,Delivered
+193,2022-11-11,133,66,5,326.61,2288.77,0.08,0.15,Online Payment,"PSC 0323, Box 8959
+APO AA 32089",2021-12-07,Shipped
+194,2022-02-26,570,180,9,72.77,6261.69,0.21,0.13,Credit Card,"03343 Barnett Shoal
+Reynoldston, MO 42341",2023-01-05,Cancelled
+195,2020-06-05,54,25,14,135.8,3215.8,0.28,0.11,Cash,"USNS Morales
+FPO AP 61634",2020-07-26,Cancelled
+196,2023-10-28,507,29,6,70.26,2274.32,0.21,0.11,Online Payment,"4988 Wright Plains
+Kathleenview, FL 29051",2023-06-21,Pending
+197,2020-12-27,861,128,11,157.77,2410.33,0.25,0.12,Cash,"73462 Martin Island
+Carrollland, SC 55558",2020-02-25,Delivered
+198,2021-11-10,851,12,1,304.73,833.84,0.12,0.01,Cash,"1119 Nathan Harbors Suite 588
+Johnsonfort, OH 27007",2023-03-29,Shipped
+199,2022-01-12,50,177,11,299.77,9003.58,0.19,0.02,Debit Card,"08453 Amber Gateway Suite 861
+Port Nicoleville, AK 43034",2023-04-06,Cancelled
+200,2023-10-22,888,17,15,487.73,8664.32,0.19,0.1,Online Payment,"058 Chase Club Suite 243
+North Kennethmouth, NE 36272",2022-09-17,Cancelled
+201,2022-02-19,944,26,16,210.5,3287.65,0.28,0.04,Online Payment,"5522 Holder Squares
+Annahaven, MA 59462",2022-12-25,Shipped
+202,2022-02-20,727,1,8,95.1,7113.08,0.05,0.14,Online Payment,"8125 Michael Union
+New Ronaldborough, RI 19408",2023-10-28,Pending
+203,2020-01-26,417,41,18,482.41,3611.95,0.17,0.01,Online Payment,"503 Jason Drive
+Lake Aliciaborough, TN 49189",2020-05-14,Shipped
+204,2021-07-22,567,164,3,307.47,3367.48,0.21,0.12,Debit Card,"06541 Austin Ferry Suite 151
+West Maureen, IL 84841",2022-10-23,Shipped
+205,2020-05-02,278,178,7,185.7,336.95,0.03,0.14,Credit Card,"11983 Krista Wells
+Lake Jennifer, ND 34815",2022-07-21,Delivered
+206,2021-01-17,323,133,12,37.39,5751.54,0.22,0.2,Cash,"86696 Watts Ways Apt. 810
+East Tyler, DC 70112",2020-12-19,Pending
+207,2023-10-27,880,40,15,492.17,8747.89,0.08,0.17,Credit Card,"9442 Mosley Meadow
+New Ericafurt, AZ 52007",2021-09-16,Cancelled
+208,2022-11-15,101,58,11,24.19,3471.52,0.24,0.12,Credit Card,"864 Cynthia Greens Suite 386
+Brianbury, KY 61600",2023-11-28,Cancelled
+209,2022-01-28,780,174,19,487.44,5937.74,0.2,0.13,Online Payment,"0638 Sherry Ports Suite 679
+West Michael, MO 08039",2020-12-26,Delivered
+210,2020-08-23,741,149,15,383.37,6857.69,0.2,0.19,Online Payment,"72995 Berger Club Apt. 391
+Williamsburgh, RI 07036",2021-03-19,Pending
+211,2020-02-26,39,152,10,18.45,1228.06,0.23,0.02,Cash,"281 Amanda Junctions
+Michaelchester, RI 69746",2022-09-06,Delivered
+212,2022-08-19,975,100,3,343.93,6965.23,0.15,0.03,Online Payment,"Unit 0202 Box 1055
+DPO AE 16258",2020-06-26,Shipped
+213,2020-05-21,997,93,11,310.32,141.52,0.18,0.08,Online Payment,"40162 Mary Walks
+Angelashire, WA 61833",2020-12-23,Delivered
+214,2022-11-28,611,191,5,147.74,7487.21,0.28,0.19,Cash,"7715 Marshall Springs Suite 374
+South Jeremymouth, AR 68860",2022-06-06,Pending
+215,2021-09-08,795,27,1,277.15,147.67,0.27,0.15,Online Payment,"4734 Lozano Estates
+West Mariatown, VT 11195",2022-11-03,Pending
+216,2020-05-05,848,112,20,43.01,6318.36,0.16,0.18,Credit Card,"8835 Fox Shoal Suite 996
+Whitneyberg, WI 89852",2020-11-06,Pending
+217,2023-05-30,620,122,20,82.04,299.29,0.06,0.1,Cash,"5561 James Bypass
+North Brianaport, IA 09032",2022-11-11,Shipped
+218,2020-03-26,582,108,12,392.9,6527.9,0.02,0.12,Credit Card,"9424 Jones Overpass Apt. 238
+Barryfurt, NC 62157",2021-11-20,Delivered
+219,2021-04-06,828,185,3,418.6,8364.39,0.13,0.15,Credit Card,"08418 Thomas Roads
+Port Tracyfurt, SC 57216",2020-06-11,Cancelled
+220,2021-08-12,23,93,19,262.73,7482.19,0.16,0.02,Debit Card,"91750 Taylor Parks Suite 531
+Selenaton, ME 80362",2020-05-02,Shipped
+221,2022-09-27,592,1,4,165.6,3137.8,0.23,0.04,Debit Card,"828 Lopez Expressway Apt. 023
+Samanthamouth, ID 95972",2020-05-28,Cancelled
+222,2023-08-10,714,189,12,465.14,9259.48,0.14,0.11,Online Payment,"660 Melissa Lock
+East Loriland, IN 86332",2023-04-23,Cancelled
+223,2020-07-19,791,91,17,237.63,1210.78,0.06,0.01,Cash,"7305 Dixon Roads Apt. 358
+North Toni, TX 18515",2021-07-05,Shipped
+224,2022-03-18,338,102,4,453.6,9199.9,0.13,0.19,Credit Card,"55658 Michael Land Suite 459
+East Jeffreyville, UT 86089",2020-02-14,Pending
+225,2023-10-29,843,4,17,72.85,2874.62,0.04,0.02,Online Payment,"249 Cooper Parkway
+West Josephfurt, MI 20532",2021-12-17,Cancelled
+226,2023-08-15,349,199,1,298.04,4182.23,0.06,0.01,Online Payment,"9562 Stephanie Hills Apt. 231
+West Rachelton, GA 46780",2023-09-05,Cancelled
+227,2022-03-24,63,173,5,339.06,2347.42,0.09,0.17,Credit Card,"6794 Duarte Hill Apt. 197
+East Rachelchester, MD 23019",2020-09-17,Cancelled
+228,2021-01-12,433,96,7,196.4,2384.16,0.02,0.08,Cash,"3444 Thomas Station
+East Cameron, DC 11555",2021-11-16,Cancelled
+229,2020-06-27,860,145,17,357.25,4629.5,0.24,0.05,Cash,"180 Hill Springs
+Port Stephanieburgh, TX 28301",2022-02-01,Shipped
+230,2022-02-11,656,113,1,262.89,9636.55,0.21,0.19,Online Payment,"30564 Kevin Road
+Lake Kerry, IN 73536",2023-10-03,Delivered
+231,2020-12-27,637,191,3,425.0,7189.69,0.11,0.06,Online Payment,"483 Shannon Bypass Apt. 716
+South Natalie, KS 64462",2022-09-03,Delivered
+232,2022-10-15,572,86,1,145.71,7146.31,0.24,0.01,Credit Card,"PSC 9525, Box 2321
+APO AA 01638",2021-02-28,Pending
+233,2021-06-04,832,99,19,111.26,1033.71,0.03,0.06,Credit Card,"6764 Sims Crescent Suite 578
+West Leonardburgh, CO 04704",2021-10-20,Shipped
+234,2022-05-30,818,75,14,414.68,8942.59,0.17,0.11,Credit Card,"715 Spencer Ports Suite 688
+Lake Margaret, SD 80072",2020-03-03,Cancelled
+235,2022-10-26,538,200,11,499.94,1926.12,0.3,0.08,Online Payment,"163 Brown Viaduct Apt. 728
+West Kristina, SC 47664",2023-11-30,Shipped
+236,2022-07-19,457,57,18,62.45,8954.36,0.01,0.12,Cash,"0820 Anthony Via
+Port Alexanderburgh, WA 50468",2022-12-02,Shipped
+237,2023-02-16,335,161,1,459.57,5311.82,0.3,0.1,Online Payment,"8405 Graham Parkways
+Port Richard, VT 64453",2020-08-08,Cancelled
+238,2021-03-13,774,175,13,62.74,4569.92,0.02,0.06,Debit Card,"065 Smith Junctions Suite 879
+South Andrew, DE 47752",2023-01-31,Shipped
+239,2021-06-19,935,142,5,47.93,8613.52,0.22,0.11,Credit Card,"684 Kathryn Trail Apt. 805
+Zimmermanport, AR 22547",2020-07-01,Delivered
+240,2021-09-07,14,145,14,263.93,7696.92,0.16,0.16,Credit Card,"9001 Cathy Inlet
+Karenside, LA 99895",2023-08-05,Pending
+241,2020-02-21,85,173,2,210.51,5803.21,0.02,0.12,Cash,"438 Valerie Tunnel Suite 384
+Laurieburgh, DE 40859",2022-05-26,Shipped
+242,2023-11-25,59,59,6,173.79,1553.19,0.11,0.03,Debit Card,"34986 Ward Isle Apt. 643
+Stephaniemouth, SD 79881",2023-02-25,Pending
+243,2020-04-23,733,144,4,424.97,5171.49,0.08,0.04,Cash,"7626 Aaron Dale Apt. 709
+Michaelview, RI 63460",2023-03-05,Shipped
+244,2020-06-12,715,43,7,401.13,5426.35,0.22,0.0,Cash,"85386 Patel Mews Suite 332
+Adamsland, NE 99205",2020-08-23,Delivered
+245,2022-01-27,406,9,15,24.31,4807.08,0.19,0.04,Cash,"32445 Allison Isle
+West Penny, AR 72574",2022-03-25,Delivered
+246,2023-03-19,771,74,1,383.58,3441.71,0.2,0.13,Debit Card,"935 Jeff Harbor
+Boydborough, RI 11493",2022-03-05,Shipped
+247,2020-12-12,81,122,18,477.63,2756.71,0.13,0.05,Online Payment,"396 Joseph Cliff Apt. 391
+East John, DE 89850",2020-09-06,Shipped
+248,2022-03-10,389,54,9,163.44,4371.05,0.18,0.17,Credit Card,"0287 Thomas Roads Suite 930
+Diazfurt, MS 47141",2021-11-07,Pending
+249,2022-10-30,181,140,4,274.09,117.72,0.13,0.03,Online Payment,"68362 Alexander Pike Apt. 156
+Holmesstad, WY 74887",2022-11-11,Delivered
+250,2022-12-23,803,124,7,414.89,3444.78,0.14,0.07,Debit Card,"0277 Andrew Orchard
+East Veronica, NY 83904",2023-12-17,Cancelled
+251,2023-09-18,516,144,16,75.08,5490.4,0.1,0.01,Debit Card,"526 Kathryn Forges Apt. 690
+Schmidtberg, MD 45218",2023-03-25,Delivered
+252,2022-01-06,555,28,9,147.62,7644.12,0.08,0.16,Cash,"9679 Sarah Causeway
+Port Ericstad, VA 77586",2022-03-10,Pending
+253,2020-09-16,679,120,17,429.88,1411.84,0.15,0.16,Credit Card,"603 Riley Stravenue
+Peterland, WA 31303",2020-12-03,Shipped
+254,2021-02-22,900,188,10,307.99,639.89,0.14,0.17,Cash,"9310 Kylie Glens
+Pattersonborough, CO 73699",2021-01-14,Delivered
+255,2023-09-01,351,94,2,202.4,9752.1,0.03,0.05,Credit Card,"5877 Joseph Pass Suite 333
+New Crystalton, CT 21081",2022-05-29,Cancelled
+256,2020-10-20,421,159,6,300.79,9148.35,0.27,0.08,Online Payment,"714 Louis Divide Suite 385
+New Douglasland, DC 81113",2020-04-12,Cancelled
+257,2021-10-04,305,88,4,368.87,8862.92,0.04,0.12,Credit Card,"PSC 9918, Box 1061
+APO AA 22046",2021-05-18,Shipped
+258,2021-11-18,758,170,11,47.31,3516.24,0.28,0.11,Cash,"13236 Jessica Manors Suite 522
+Rogersmouth, SD 34120",2020-02-26,Delivered
+259,2021-06-18,639,20,11,156.39,6625.05,0.1,0.15,Cash,"08170 Mary Underpass
+Matthewsshire, NM 37489",2023-10-14,Pending
+260,2022-12-06,263,117,20,233.41,2946.99,0.22,0.19,Cash,"35525 Wanda Canyon Suite 655
+Wagnerfurt, IL 05164",2020-12-25,Delivered
+261,2023-07-16,538,9,12,349.09,4649.99,0.2,0.15,Credit Card,"835 Emily Mount
+West Amandaborough, ID 07893",2021-04-05,Delivered
+262,2023-09-20,330,61,7,394.38,7173.31,0.3,0.05,Credit Card,"96255 Ortega Plains
+North Michaelside, MO 19368",2020-01-21,Pending
+263,2023-06-16,830,21,13,369.55,1996.7,0.17,0.04,Cash,"9013 Case Track Suite 744
+Tinaview, UT 74618",2020-03-19,Shipped
+264,2023-05-30,457,190,8,371.44,4156.94,0.04,0.06,Credit Card,"00911 Perez Garden Suite 702
+West Shane, MA 07534",2020-08-07,Cancelled
+265,2022-05-26,641,103,19,269.79,1418.26,0.12,0.2,Credit Card,"PSC 3707, Box 8021
+APO AP 65395",2022-06-17,Shipped
+266,2020-04-22,843,159,4,392.01,5960.82,0.13,0.02,Online Payment,"995 Nicole Loop
+Valenciamouth, NE 86559",2021-09-14,Delivered
+267,2022-09-08,210,31,19,177.15,4406.67,0.01,0.19,Online Payment,"22260 Johnson Shoal Suite 106
+West William, OR 32987",2023-12-23,Cancelled
+268,2023-08-06,95,39,13,248.15,9198.27,0.26,0.16,Debit Card,"75675 Nielsen Trail Apt. 143
+Johnhaven, NM 64933",2020-11-04,Pending
+269,2021-06-04,718,185,3,482.08,9656.61,0.07,0.06,Online Payment,"944 Morrow Isle
+West Taylor, AL 79952",2021-06-07,Shipped
+270,2023-11-03,941,128,13,199.74,9129.81,0.07,0.19,Online Payment,"18710 Cannon Green Apt. 849
+Martinezview, CO 70262",2022-05-13,Shipped
+271,2021-06-17,14,3,16,349.34,6268.67,0.04,0.05,Online Payment,"5759 Myers Passage
+Kirstenshire, OR 01762",2021-02-14,Shipped
+272,2023-03-15,126,8,5,441.59,8412.69,0.17,0.17,Cash,"8785 Joseph Cliff
+Gordonview, NJ 18045",2023-09-30,Cancelled
+273,2021-07-28,971,93,14,197.55,1534.53,0.27,0.07,Cash,"9644 Mason View
+Charlesborough, MI 27871",2023-03-02,Cancelled
+274,2022-05-15,14,12,12,416.03,9014.3,0.11,0.18,Online Payment,"717 Graham Court
+North Meghan, MI 55029",2022-04-11,Delivered
+275,2023-08-20,444,6,3,409.25,2238.47,0.27,0.04,Debit Card,"114 Lane Street
+Josephmouth, NM 74867",2022-01-22,Delivered
+276,2021-06-09,228,151,19,454.37,1920.38,0.06,0.11,Online Payment,"PSC 7130, Box 5306
+APO AA 83448",2022-02-23,Pending
+277,2021-06-14,43,190,4,49.0,722.87,0.01,0.16,Cash,"1832 Glenda Highway Apt. 927
+Coreyborough, MT 06116",2020-02-21,Shipped
+278,2021-05-15,237,156,16,264.91,8425.74,0.25,0.02,Cash,"468 Christopher Path
+Stewartton, MA 50130",2020-12-29,Shipped
+279,2022-07-10,184,129,7,26.87,4865.17,0.01,0.13,Online Payment,"16133 Jennifer Ridges
+Lake Matthew, NH 41125",2021-12-17,Cancelled
+280,2021-04-05,502,68,3,406.7,8816.13,0.19,0.15,Debit Card,"2050 Johnson Villages
+Carlberg, AZ 25114",2023-12-10,Shipped
+281,2022-12-21,821,125,6,184.01,9474.96,0.2,0.16,Cash,"0110 Alexandria Walks
+West Erikland, SD 45659",2020-04-29,Shipped
+282,2020-09-19,182,94,8,306.13,5975.62,0.2,0.16,Cash,"6633 Cook Coves
+Ericastad, HI 38536",2022-04-05,Shipped
+283,2023-04-23,517,132,16,350.68,9361.58,0.03,0.09,Cash,"378 Taylor Key Suite 188
+Lake Katieport, NJ 36475",2022-07-01,Delivered
+284,2022-01-15,349,78,7,265.66,9530.69,0.27,0.08,Online Payment,"6145 Davis Trace Suite 413
+New Peterside, MD 93132",2022-04-12,Shipped
+285,2020-05-16,270,168,3,355.96,6927.0,0.24,0.05,Online Payment,"083 Cheryl Cape
+Wilsonbury, MA 94590",2022-09-12,Pending
+286,2022-05-07,862,82,15,36.77,5357.55,0.07,0.17,Debit Card,"45057 Moore Track Suite 464
+Kevinfort, VT 06298",2023-08-21,Cancelled
+287,2023-08-20,695,25,3,235.35,9092.6,0.02,0.04,Online Payment,"02483 Moore Crest
+Port Rebecca, MA 61483",2023-12-06,Cancelled
+288,2021-11-07,947,65,1,98.49,8312.52,0.22,0.07,Debit Card,"Unit 4346 Box 0634
+DPO AE 96846",2023-01-22,Shipped
+289,2023-10-13,409,181,4,329.81,325.31,0.09,0.15,Credit Card,"PSC 7687, Box 4260
+APO AE 34484",2022-10-10,Shipped
+290,2020-02-04,102,20,19,25.23,6330.89,0.2,0.03,Credit Card,"915 Mann Mills Apt. 459
+Hughesbury, FL 29728",2021-08-02,Pending
+291,2020-07-23,666,196,6,471.25,384.75,0.19,0.13,Online Payment,"258 Teresa Crescent
+Coreyhaven, TX 70320",2020-10-08,Delivered
+292,2022-01-12,759,108,6,126.67,7236.85,0.05,0.1,Credit Card,"8558 Wade Bypass Apt. 552
+Flemingmouth, VA 42854",2022-07-01,Cancelled
+293,2022-03-20,140,194,11,298.2,3569.87,0.25,0.01,Credit Card,"95489 Stephens Throughway
+West Lisa, TX 05236",2020-01-27,Shipped
+294,2023-12-10,121,54,3,364.78,1637.59,0.18,0.08,Cash,"7059 Bianca Track Suite 028
+Bellfort, NJ 37666",2023-09-25,Shipped
+295,2021-04-17,146,106,15,269.28,5053.92,0.16,0.05,Debit Card,"Unit 2893 Box 5285
+DPO AP 25977",2022-05-06,Pending
+296,2021-08-17,324,146,1,151.71,4958.84,0.02,0.08,Cash,"0269 Brown Way
+South Jacob, NM 49243",2020-05-03,Cancelled
+297,2020-07-16,776,70,16,12.07,4561.47,0.26,0.06,Credit Card,"0313 James Lakes
+West Tony, WV 44310",2022-01-24,Pending
+298,2021-01-25,209,24,3,479.86,4658.15,0.09,0.15,Credit Card,"78037 Zachary Squares Apt. 487
+South Donaldstad, MD 73799",2021-04-19,Pending
+299,2022-07-05,845,35,2,90.59,3146.1,0.22,0.1,Credit Card,"4497 Hammond Plains Suite 829
+Thompsonton, NC 77923",2021-10-23,Pending
+300,2020-05-27,353,160,2,227.63,283.6,0.18,0.11,Credit Card,"1438 Flores Lakes
+Jasonstad, MN 49120",2020-12-06,Shipped
+301,2022-11-13,33,11,14,25.4,6293.84,0.17,0.08,Credit Card,"PSC 5980, Box 8601
+APO AE 89883",2020-06-26,Shipped
+302,2023-08-03,323,63,10,285.64,7343.68,0.26,0.11,Online Payment,"52792 Brittany Ridge Suite 647
+Damonberg, MI 14833",2021-02-04,Pending
+303,2020-12-10,875,150,10,442.88,1775.09,0.24,0.13,Cash,"97897 Kimberly Parks Suite 786
+Kevinhaven, GA 25566",2022-05-09,Shipped
+304,2022-09-27,425,129,6,407.42,8209.33,0.13,0.0,Debit Card,"PSC 0184, Box 5072
+APO AA 82238",2021-08-18,Delivered
+305,2023-07-14,388,23,16,237.4,2422.34,0.04,0.11,Cash,"3610 Michelle Village Apt. 758
+South Joshuaburgh, WV 09074",2022-08-13,Shipped
+306,2022-12-27,956,44,9,201.73,4602.25,0.07,0.18,Debit Card,"965 Manning Mills
+East Lauren, NV 45361",2021-11-29,Delivered
+307,2022-05-10,667,104,10,211.58,231.3,0.26,0.14,Cash,"910 Alyssa Ports
+Lake Donaldville, WA 84268",2020-01-12,Pending
+308,2022-12-11,720,142,9,69.71,3852.0,0.23,0.13,Online Payment,"74282 Garcia Radial Suite 812
+Williamshire, NM 24358",2021-02-16,Shipped
+309,2022-08-15,548,150,7,394.99,5657.74,0.25,0.09,Cash,"397 Cooper Pines Suite 348
+Port Tamaramouth, SC 97759",2020-10-06,Shipped
+310,2021-08-14,534,195,6,281.22,3174.19,0.29,0.04,Credit Card,"57740 Rosales Unions Apt. 614
+Thompsonmouth, WY 10154",2021-05-24,Pending
+311,2021-05-29,754,81,7,354.65,5023.38,0.23,0.18,Cash,"269 Barbara Park Suite 672
+South Madisonton, WY 27129",2022-12-03,Shipped
+312,2023-06-25,56,12,1,273.35,8458.76,0.25,0.17,Cash,"372 Matthew Stravenue Apt. 925
+Port Christopherchester, DC 21068",2023-06-07,Pending
+313,2023-08-17,536,125,4,120.73,6034.37,0.09,0.19,Debit Card,"062 Davis Freeway Apt. 951
+New Brittanyland, IN 63704",2022-05-07,Shipped
+314,2020-06-09,971,23,6,78.54,144.89,0.13,0.1,Online Payment,"90012 Johnson Spur Suite 729
+Bennettfurt, WV 27406",2023-08-24,Cancelled
+315,2020-04-11,586,129,18,5.17,4424.83,0.24,0.08,Cash,"8512 Thomas Unions
+Limouth, IA 67466",2023-01-05,Delivered
+316,2021-07-28,237,130,18,18.29,6176.6,0.08,0.17,Cash,"87080 White Viaduct
+Katherineberg, RI 28370",2021-09-01,Pending
+317,2021-05-10,35,79,15,184.01,854.53,0.14,0.04,Debit Card,"USS Zhang
+FPO AP 20124",2023-06-07,Delivered
+318,2023-09-01,304,64,19,275.73,6233.9,0.07,0.06,Cash,"4922 Thompson Haven
+West Paul, AZ 23589",2022-04-02,Delivered
+319,2022-04-08,757,74,12,461.91,7730.93,0.29,0.17,Online Payment,"7089 Elizabeth Forks
+Port James, MO 38931",2020-11-02,Delivered
+320,2021-02-24,720,98,13,389.56,3984.75,0.06,0.05,Credit Card,"933 Abigail Parkway Suite 855
+Christineside, CO 18361",2022-05-02,Cancelled
+321,2020-12-04,164,157,3,145.89,6215.73,0.05,0.03,Credit Card,"56773 Austin Brooks Apt. 190
+Davisside, HI 84855",2020-12-01,Delivered
+322,2021-02-28,729,54,20,17.55,918.68,0.05,0.12,Cash,"3447 Christian View
+Nancyville, NH 17463",2022-10-09,Pending
+323,2023-12-19,393,60,17,95.31,1070.25,0.27,0.13,Credit Card,"9098 Daniel Mountain
+Jessicaburgh, NC 75322",2022-02-18,Delivered
+324,2022-04-08,345,34,3,427.18,3937.62,0.05,0.03,Debit Card,"2219 Mcdonald Manors Apt. 721
+Warnerville, NH 14531",2023-06-11,Cancelled
+325,2023-10-19,851,59,8,143.98,5960.35,0.0,0.1,Credit Card,"2436 David Passage Suite 424
+Gloverberg, NE 49180",2022-08-11,Delivered
+326,2023-08-11,590,134,7,292.86,991.36,0.09,0.04,Online Payment,"3308 Cobb Drive
+Port Williammouth, WV 04787",2021-07-27,Delivered
+327,2020-09-14,783,18,1,5.05,2863.02,0.07,0.11,Debit Card,"145 Jackson Falls Apt. 761
+New Sean, WA 43283",2022-05-18,Cancelled
+328,2020-09-24,102,24,19,181.56,589.28,0.16,0.1,Credit Card,"1986 Robert Ways
+Watkinstown, CO 73837",2022-03-27,Pending
+329,2022-05-17,933,178,9,251.79,9374.11,0.14,0.13,Debit Card,"054 Rhonda Fork Apt. 053
+New Carolinehaven, FL 82111",2023-10-07,Pending
+330,2020-11-17,700,142,9,289.29,9360.96,0.06,0.09,Credit Card,"Unit 2128 Box 1169
+DPO AP 25232",2021-05-10,Delivered
+331,2023-07-03,651,177,18,62.51,4066.09,0.2,0.13,Debit Card,"08831 Vargas Trail Apt. 181
+North Gregoryfort, OK 80060",2021-03-09,Shipped
+332,2022-06-18,16,183,18,467.43,1313.93,0.29,0.07,Cash,"80821 James Rapid Suite 369
+North Ericaton, NH 97383",2020-05-28,Pending
+333,2020-07-04,204,101,17,168.34,2187.52,0.0,0.14,Debit Card,"63250 Montgomery Lock Apt. 628
+Gibsonberg, AL 58315",2020-06-25,Shipped
+334,2020-01-05,264,195,19,392.63,2342.06,0.02,0.04,Debit Card,"213 Andrew Canyon Suite 402
+Moonburgh, AZ 47249",2021-11-27,Cancelled
+335,2020-04-16,312,59,2,305.58,3123.68,0.19,0.05,Cash,"225 Schmidt Highway
+East Shawnfort, NE 94207",2023-07-17,Shipped
+336,2022-07-15,819,2,7,122.64,3376.4,0.22,0.02,Online Payment,"0694 Robinson Brook
+New Thomasborough, KS 21594",2020-07-03,Shipped
+337,2023-06-07,565,139,6,349.68,5069.29,0.14,0.14,Online Payment,"5075 Ayala Village Suite 206
+Port Kathleenburgh, NY 58272",2020-02-17,Shipped
+338,2021-03-29,986,192,18,19.97,5342.75,0.11,0.18,Cash,"Unit 4196 Box 6743
+DPO AP 77869",2022-08-24,Cancelled
+339,2020-12-16,133,11,1,67.02,3239.71,0.05,0.1,Credit Card,"Unit 6438 Box 8168
+DPO AE 65835",2023-12-04,Delivered
+340,2021-11-22,62,59,3,179.14,7082.36,0.16,0.07,Cash,"8881 Fisher Inlet
+Annettechester, WI 74170",2021-10-19,Shipped
+341,2022-11-26,484,110,15,49.32,2988.05,0.18,0.14,Online Payment,"17466 Brittany Branch Suite 255
+West Jamie, NJ 07901",2021-01-30,Shipped
+342,2022-10-11,741,18,17,334.33,1854.38,0.03,0.15,Credit Card,"3245 Alexander Key Apt. 081
+Johnsonborough, TN 46217",2021-11-14,Delivered
+343,2023-05-16,630,156,13,102.2,548.03,0.15,0.01,Online Payment,"PSC 8534, Box 6972
+APO AE 26022",2020-06-06,Delivered
+344,2023-11-08,72,168,20,414.23,9171.68,0.22,0.19,Cash,"Unit 6638 Box 6938
+DPO AA 89818",2023-02-25,Shipped
+345,2020-10-12,695,156,14,281.77,1331.36,0.05,0.1,Debit Card,"291 Edward Circle Suite 113
+Sheliaberg, TX 93561",2022-08-05,Shipped
+346,2023-11-04,897,82,5,253.35,7975.18,0.25,0.19,Online Payment,"854 Olson Points Suite 097
+Lynchhaven, KY 37459",2021-11-23,Cancelled
+347,2023-08-23,489,22,7,18.18,7299.82,0.14,0.19,Online Payment,"2818 Kenneth Skyway Apt. 680
+Port Jenniferfurt, MO 02373",2022-09-19,Cancelled
+348,2022-06-05,316,155,18,388.8,23.68,0.08,0.15,Debit Card,"376 Victoria Village
+Port Matthew, VA 26997",2021-06-26,Pending
+349,2021-04-26,513,122,4,85.75,3574.19,0.2,0.05,Debit Card,"56392 Wilson Ville Suite 282
+Stephenland, LA 14291",2023-02-07,Delivered
+350,2020-11-21,810,79,5,290.15,2159.8,0.17,0.2,Cash,"USS Becker
+FPO AA 87922",2022-01-15,Shipped
+351,2021-04-05,527,18,16,423.63,1741.61,0.2,0.03,Debit Card,"98479 Jones Plains Apt. 323
+Rossville, SD 45973",2023-05-08,Pending
+352,2022-04-09,52,156,20,187.78,4273.9,0.18,0.03,Cash,"53936 Jason Overpass
+New Amyland, NM 11758",2021-08-25,Shipped
+353,2022-02-09,741,163,14,312.76,4519.92,0.11,0.16,Online Payment,"592 Gary Port Apt. 778
+Port Michellemouth, MI 26975",2020-05-26,Delivered
+354,2021-04-28,841,132,18,413.67,4571.67,0.18,0.12,Debit Card,"094 Shepherd Club
+New Jenny, AZ 75254",2023-11-30,Pending
+355,2022-03-29,685,181,1,229.25,6593.52,0.02,0.02,Debit Card,"05447 Hill Plains Apt. 763
+Weberborough, TN 25916",2022-05-29,Pending
+356,2023-05-30,186,120,11,115.27,922.05,0.2,0.09,Debit Card,"3533 Greene Manor Apt. 782
+Pettybury, MI 26983",2023-11-21,Shipped
+357,2021-06-24,947,185,5,242.02,4654.13,0.06,0.1,Credit Card,"6355 Baker Extension Apt. 387
+West Christopherberg, AK 63439",2023-12-21,Pending
+358,2022-05-27,879,175,6,67.85,440.4,0.01,0.14,Credit Card,"072 Nancy Neck
+New Robert, WY 31905",2020-06-14,Delivered
+359,2022-03-18,919,77,17,51.17,952.88,0.29,0.06,Online Payment,"27677 Gross Valleys
+South Susan, NJ 62105",2020-06-02,Shipped
+360,2021-01-07,10,133,6,116.15,579.49,0.17,0.09,Debit Card,"7509 Sanders Island Apt. 312
+Goodmanshire, DE 80291",2023-07-20,Shipped
+361,2022-10-01,499,174,18,499.6,7649.17,0.03,0.1,Debit Card,"58821 Harrington Trafficway
+South Chadbury, TN 87349",2022-10-21,Delivered
+362,2023-07-17,920,125,6,348.5,3814.94,0.24,0.17,Cash,"90468 Smith Circle Apt. 364
+North Crystalside, ND 88679",2023-07-03,Cancelled
+363,2022-09-03,629,46,12,287.47,2723.05,0.29,0.16,Cash,"87566 Sabrina Dam Apt. 792
+North Matthewbury, IA 23923",2022-07-10,Cancelled
+364,2023-01-08,690,141,10,148.93,3482.42,0.25,0.0,Debit Card,"78808 Patricia Gateway Apt. 840
+South Gregory, ID 51781",2023-05-21,Cancelled
+365,2020-03-18,595,12,10,222.48,4199.75,0.02,0.12,Cash,"21795 Tyler Bridge Apt. 028
+Stephaniemouth, WA 18717",2021-02-14,Cancelled
+366,2021-03-09,916,151,18,88.81,1124.41,0.1,0.01,Debit Card,"5742 Lucero Drive Apt. 177
+South Michael, OK 61211",2023-07-20,Delivered
+367,2020-06-18,315,111,18,99.06,7459.22,0.11,0.09,Debit Card,"2460 Williams Roads Suite 311
+Carpenterhaven, IL 50604",2023-04-04,Pending
+368,2021-03-30,7,21,20,85.99,659.1,0.02,0.04,Online Payment,"815 William Points
+East Rebeccamouth, AL 82125",2023-07-14,Pending
+369,2023-05-04,124,112,12,106.56,1787.6,0.27,0.17,Online Payment,"4121 Mercer Inlet Apt. 243
+Heathertown, DE 79263",2020-03-10,Cancelled
+370,2020-04-03,93,150,10,227.99,3330.98,0.26,0.06,Debit Card,"145 Stewart Rest
+Smithberg, ME 57883",2022-02-23,Shipped
+371,2023-02-08,630,63,6,155.39,7690.78,0.21,0.16,Online Payment,"72775 Paul Circles Apt. 317
+New Nicole, SC 52976",2023-11-13,Pending
+372,2021-05-30,873,79,15,270.31,690.06,0.13,0.04,Credit Card,"Unit 3358 Box 8860
+DPO AE 28509",2020-07-08,Pending
+373,2023-05-22,30,22,20,369.0,6724.28,0.23,0.15,Credit Card,"2583 Johnson Tunnel
+Wustad, NC 58103",2020-11-15,Shipped
+374,2021-09-02,816,52,4,244.18,5518.87,0.07,0.02,Online Payment,"9465 Beck Run
+Blevinsstad, NH 57947",2021-01-14,Pending
+375,2022-12-18,558,194,7,109.81,5576.44,0.2,0.18,Credit Card,"1197 Bartlett Route Suite 137
+Travisbury, UT 83113",2021-11-27,Cancelled
+376,2020-12-20,647,121,13,151.19,8307.69,0.28,0.14,Credit Card,"99967 Leslie Village
+Bellhaven, MN 28418",2020-06-21,Pending
+377,2021-09-05,315,13,6,438.88,9484.57,0.23,0.08,Online Payment,"PSC 2089, Box 1392
+APO AE 24094",2021-06-26,Shipped
+378,2023-02-08,375,130,19,294.01,3402.01,0.12,0.17,Credit Card,"09201 Cynthia Freeway Suite 755
+New Lisafort, NH 62963",2022-01-19,Shipped
+379,2022-02-21,356,88,6,194.89,5563.06,0.08,0.16,Online Payment,"50061 Jacobs Drive Suite 174
+North Kara, OR 31565",2021-08-10,Delivered
+380,2022-04-15,342,94,14,200.05,3122.12,0.24,0.07,Online Payment,"970 Patterson Points Apt. 624
+West Richardfurt, KS 59592",2020-03-21,Pending
+381,2021-04-02,373,142,17,491.87,735.24,0.14,0.14,Cash,"8934 Burton Street Apt. 034
+Craigberg, NJ 87897",2021-10-27,Pending
+382,2022-12-16,931,93,15,421.58,9117.3,0.28,0.03,Cash,"517 Weeks Roads
+Phillipsberg, MD 77164",2020-11-09,Shipped
+383,2021-12-29,457,49,12,389.61,5723.86,0.08,0.15,Credit Card,"136 Clark Isle
+Port Joshuaville, NE 50402",2021-12-19,Cancelled
+384,2022-08-20,770,177,14,334.64,6902.31,0.05,0.12,Cash,"623 Robinson Extensions Suite 775
+Josephmouth, MO 28320",2020-08-09,Cancelled
+385,2023-06-06,143,117,3,32.18,4924.1,0.05,0.13,Debit Card,"956 Carter Roads
+North Scottberg, GA 74714",2021-02-08,Delivered
+386,2020-01-30,698,198,8,256.17,4937.32,0.02,0.09,Debit Card,"439 Williams Groves
+Jerrybury, TN 19648",2022-04-22,Delivered
+387,2023-10-01,470,127,16,340.09,8662.99,0.3,0.11,Online Payment,"Unit 4239 Box 6907
+DPO AP 24215",2022-06-08,Shipped
+388,2023-03-05,366,88,16,353.93,2762.24,0.12,0.11,Credit Card,"4628 Murphy Hills
+North Michaelborough, MT 73634",2022-03-09,Cancelled
+389,2021-12-05,798,81,4,426.51,615.86,0.22,0.17,Credit Card,"USCGC Skinner
+FPO AA 98656",2021-04-24,Shipped
+390,2020-12-14,693,140,2,177.38,209.5,0.19,0.11,Cash,"762 Evans Pass Suite 015
+Jamesfurt, NE 82145",2021-03-01,Delivered
+391,2023-06-12,796,178,18,157.4,5290.76,0.04,0.07,Credit Card,"491 Greene Stream Apt. 613
+West Michaelchester, TN 14101",2020-12-21,Pending
+392,2021-09-22,589,60,8,57.03,4519.75,0.18,0.06,Credit Card,"USS Evans
+FPO AA 12734",2022-06-20,Cancelled
+393,2023-09-25,613,47,14,499.21,578.19,0.21,0.1,Online Payment,"2410 Eric Square Apt. 525
+Blackburnton, OH 68752",2022-09-04,Shipped
+394,2023-12-18,897,59,16,330.17,1276.77,0.16,0.03,Debit Card,"3677 Steven Road
+Alvaradotown, SC 97083",2021-08-07,Pending
+395,2022-03-15,78,66,18,453.34,5147.15,0.05,0.16,Debit Card,"13082 Cooper Prairie
+West Benjaminberg, MN 50520",2020-06-03,Cancelled
+396,2022-09-11,59,169,15,446.74,4459.84,0.28,0.07,Cash,"35607 Potter Ports
+New Amberstad, MD 30323",2023-05-25,Shipped
+397,2023-01-23,248,67,7,92.95,1561.0,0.21,0.03,Debit Card,"49396 Robertson Mountains Apt. 752
+New Kimberly, UT 40382",2022-09-23,Cancelled
+398,2023-09-09,597,168,1,208.35,9345.57,0.12,0.07,Debit Card,"85942 Gabriel Radial
+Lake Alexis, MD 62880",2020-12-09,Pending
+399,2023-06-05,195,71,19,41.8,1059.78,0.13,0.2,Cash,"686 Andrea Plains Apt. 542
+Lake Sarabury, NE 06821",2021-03-17,Pending
+400,2021-12-19,507,162,9,301.43,1211.27,0.22,0.12,Credit Card,"280 Connie Plains
+South Robertbury, TX 33516",2023-06-11,Pending
+401,2021-12-02,345,10,3,339.78,7170.9,0.07,0.01,Online Payment,"30215 Jenkins Lane Apt. 079
+Masonville, SC 99477",2021-12-31,Pending
+402,2020-08-24,66,154,8,377.25,7813.07,0.11,0.12,Cash,"5102 Brenda Drive
+North Michaelberg, CO 65102",2021-07-12,Pending
+403,2020-02-12,133,131,2,81.65,6432.25,0.14,0.05,Online Payment,"8040 Alexander Burg
+Haneymouth, CA 73324",2020-03-02,Cancelled
+404,2021-07-04,276,9,12,397.27,8803.28,0.22,0.03,Debit Card,"2795 Colin Cove
+Smithport, SD 02126",2020-01-08,Delivered
+405,2020-05-20,182,38,13,434.48,9423.77,0.23,0.02,Credit Card,"24609 Kristopher Viaduct
+East Michelleview, NH 73104",2021-08-04,Cancelled
+406,2021-02-06,882,113,17,145.1,1329.02,0.02,0.03,Credit Card,"139 Christopher Tunnel
+South Danielside, RI 90529",2022-09-23,Pending
+407,2023-03-05,789,33,8,453.36,8736.13,0.24,0.12,Online Payment,"9150 Rivers Viaduct Suite 327
+Port Charles, MI 60680",2020-05-21,Shipped
+408,2020-02-27,136,32,5,348.14,5201.56,0.19,0.04,Online Payment,"597 Walters Islands
+South Austinmouth, MD 11126",2023-10-21,Delivered
+409,2020-09-05,317,44,9,158.13,595.22,0.29,0.07,Credit Card,"11142 Wagner Radial
+Port Dianaton, MI 34124",2023-12-03,Shipped
+410,2020-07-16,623,175,4,116.34,2691.05,0.0,0.09,Cash,"9471 Paul Island Apt. 687
+Lake Chadfort, UT 05056",2020-08-20,Shipped
+411,2022-11-18,976,152,17,460.85,6013.87,0.09,0.04,Cash,"19244 April Overpass
+Brooksfort, UT 29597",2021-10-17,Pending
+412,2023-10-25,854,3,13,274.78,918.65,0.05,0.02,Debit Card,"PSC 4731, Box 5572
+APO AE 60880",2020-01-25,Cancelled
+413,2022-05-05,131,138,5,21.17,9859.33,0.03,0.08,Cash,"895 Gonzalez Lodge
+Mikeborough, AZ 28314",2022-01-26,Shipped
+414,2023-03-03,164,64,8,238.51,9249.42,0.12,0.01,Credit Card,"1007 Green Hollow Apt. 844
+West Penny, NM 98385",2022-08-15,Delivered
+415,2022-09-25,364,31,10,90.15,9808.52,0.18,0.12,Debit Card,"795 Ryan Bridge Suite 516
+West Dawnshire, WI 10544",2021-11-12,Delivered
+416,2020-06-26,772,196,13,365.31,5772.83,0.15,0.17,Cash,"816 Hamilton Knoll Apt. 416
+East Oscarhaven, NM 15388",2021-07-17,Cancelled
+417,2021-04-10,206,137,18,188.69,5195.39,0.03,0.17,Debit Card,"799 Weaver Green Apt. 302
+New Annetteville, MT 06495",2020-08-13,Shipped
+418,2022-01-15,698,112,20,360.13,3418.29,0.23,0.03,Cash,"37518 Michael Isle
+Harrisonville, MS 12431",2023-05-27,Delivered
+419,2020-12-31,502,122,10,408.42,1578.64,0.29,0.08,Cash,"374 Cobb Roads
+South Frank, IN 74353",2023-04-16,Delivered
+420,2020-09-30,984,83,12,64.77,6183.93,0.04,0.17,Online Payment,"850 Parker Vista
+Lake Jesseside, AK 59168",2022-07-17,Delivered
+421,2022-02-18,185,104,13,356.14,9961.91,0.03,0.0,Debit Card,"464 Holmes Mall Suite 094
+Leonburgh, NC 31636",2023-04-11,Pending
+422,2020-01-04,281,65,19,253.87,2595.83,0.21,0.13,Cash,"19354 Fuller Roads
+East Cristian, FL 26023",2020-04-07,Delivered
+423,2023-02-12,858,43,2,437.3,8899.51,0.26,0.14,Cash,"USNS Yang
+FPO AP 09023",2023-06-06,Pending
+424,2021-01-31,901,156,2,107.51,4467.87,0.2,0.03,Online Payment,"2558 Dale Knolls
+North Thomas, RI 25643",2020-06-03,Cancelled
+425,2020-10-01,195,73,11,479.45,2804.68,0.25,0.13,Debit Card,"1087 Jason Falls Apt. 992
+West Jerry, IN 99441",2021-10-05,Cancelled
+426,2023-10-05,758,8,8,176.77,3764.68,0.28,0.0,Credit Card,"551 Powell Oval
+South Timothy, ID 74706",2023-10-06,Shipped
+427,2020-07-02,949,29,9,160.94,7346.45,0.2,0.11,Cash,"35664 Smith Oval
+Sherrymouth, DE 06604",2022-08-25,Shipped
+428,2023-08-28,20,23,7,471.99,8212.95,0.24,0.06,Debit Card,"8417 Michael Camp Apt. 277
+South Karenmouth, SD 51047",2023-12-01,Delivered
+429,2020-03-24,455,76,9,124.43,7727.47,0.05,0.11,Online Payment,"123 Solomon Plaza Suite 294
+South Charlesstad, PA 16003",2022-06-23,Delivered
+430,2020-07-20,929,37,8,336.67,1807.2,0.24,0.05,Debit Card,"7226 Jeffrey Isle
+Maryland, OH 95166",2023-01-19,Pending
+431,2020-07-18,480,142,17,247.62,7576.16,0.02,0.11,Debit Card,"872 Smith Mountains
+Smithland, SD 77752",2023-07-10,Shipped
+432,2022-11-16,996,103,16,319.52,741.54,0.29,0.06,Online Payment,"8612 Patterson Branch Suite 595
+Sharonmouth, MT 20662",2020-08-31,Delivered
+433,2021-10-25,42,73,14,40.43,3175.6,0.17,0.12,Online Payment,"54207 Brown View Apt. 540
+Justinberg, IL 89538",2023-12-26,Cancelled
+434,2020-09-28,559,112,2,226.1,300.81,0.26,0.06,Cash,"Unit 7598 Box 0678
+DPO AP 39193",2021-08-23,Pending
+435,2023-10-29,582,129,14,136.42,9534.31,0.08,0.08,Debit Card,"9912 Monique Garden Suite 716
+Hernandezchester, LA 05784",2022-12-18,Delivered
+436,2021-11-24,96,81,6,298.92,3766.86,0.12,0.05,Credit Card,"46787 Garcia Point Apt. 292
+New Andrea, CA 19592",2020-07-21,Cancelled
+437,2020-03-30,444,163,7,177.27,8295.5,0.27,0.16,Debit Card,"713 Debbie Shoals
+Chadville, MN 64165",2020-11-27,Cancelled
+438,2021-11-01,395,174,4,440.53,5770.11,0.27,0.09,Debit Card,"760 Randall Street Suite 847
+Lake Kathryn, OK 71996",2022-08-09,Delivered
+439,2021-09-19,302,19,8,54.51,1813.08,0.14,0.11,Credit Card,"25007 Lee Rapids Apt. 418
+Jasonmouth, WY 39709",2020-05-29,Delivered
+440,2021-09-12,721,169,14,231.78,3841.97,0.05,0.1,Debit Card,"807 Zimmerman Canyon Apt. 421
+North William, VT 50205",2023-09-11,Pending
+441,2021-05-28,727,111,6,321.3,9448.94,0.01,0.17,Online Payment,"62931 Edward Viaduct Apt. 234
+Kevinfurt, IL 64648",2021-01-08,Pending
+442,2021-08-12,613,176,15,140.4,9550.19,0.18,0.08,Debit Card,"323 Morgan Harbor
+Annamouth, DC 77548",2022-11-10,Cancelled
+443,2021-12-24,15,64,2,48.05,8098.79,0.29,0.11,Debit Card,"87116 Green Brook Apt. 920
+New Kristiberg, MA 96425",2021-03-30,Pending
+444,2023-12-16,176,37,6,179.65,6252.9,0.18,0.04,Credit Card,"9451 Perkins Landing Suite 024
+East Jenniferchester, WI 83360",2021-01-19,Pending
+445,2021-11-14,165,121,4,182.49,1032.39,0.07,0.05,Debit Card,"USNS Mosley
+FPO AA 18606",2022-07-07,Pending
+446,2022-03-28,834,148,7,116.44,7540.4,0.23,0.03,Online Payment,"84968 Kimberly Rue
+West Christopher, TN 16915",2023-11-29,Pending
+447,2023-09-12,252,95,5,203.94,808.07,0.26,0.08,Debit Card,"22758 Bryan Ridges
+South Melindaside, NY 94843",2020-07-09,Delivered
+448,2020-08-30,227,38,5,389.25,4235.77,0.22,0.02,Online Payment,"146 Martin Expressway Apt. 871
+North Scottborough, IA 56481",2021-04-26,Pending
+449,2020-01-09,861,83,13,354.63,3878.83,0.3,0.11,Cash,"USNV Carlson
+FPO AE 31635",2020-01-23,Cancelled
+450,2023-07-01,385,100,11,37.48,1671.36,0.07,0.08,Credit Card,"344 Nicholas Crossroad Suite 381
+East Melissa, LA 23939",2023-04-16,Cancelled
+451,2021-11-04,805,194,12,133.56,6915.97,0.14,0.02,Cash,"8861 Bobby Corners
+West Roychester, ME 74635",2023-08-17,Cancelled
+452,2021-08-03,527,12,19,168.82,4620.45,0.16,0.11,Debit Card,"Unit 9097 Box 8047
+DPO AE 80550",2023-09-07,Delivered
+453,2022-01-30,226,118,8,286.74,6542.58,0.09,0.15,Debit Card,"2190 Amanda Roads Apt. 394
+Gilbertchester, AL 90176",2023-10-25,Pending
+454,2021-12-06,606,105,18,39.56,7855.68,0.29,0.14,Cash,"USNS Robles
+FPO AA 06002",2022-03-06,Shipped
+455,2022-04-01,78,104,11,241.09,1570.4,0.26,0.15,Cash,"645 Brian Crescent Suite 750
+West Marymouth, NC 56043",2020-06-06,Shipped
+456,2020-09-12,623,85,17,390.45,5950.52,0.01,0.01,Credit Card,"26118 Brianna Lodge Apt. 767
+Lamtown, KY 69932",2021-11-26,Cancelled
+457,2022-01-31,737,40,11,325.89,8926.03,0.08,0.04,Cash,"39508 Jared Cliffs
+South Samanthachester, ME 58330",2020-07-11,Delivered
+458,2021-09-26,558,8,6,382.68,6473.85,0.02,0.17,Credit Card,"934 Stacey Point
+Andreahaven, MS 20531",2021-06-06,Delivered
+459,2021-10-19,410,71,7,216.03,3538.6,0.03,0.05,Debit Card,"8386 Payne Village Suite 455
+Adamsmouth, WY 38034",2021-04-21,Shipped
+460,2021-11-27,358,131,13,479.14,760.69,0.08,0.09,Credit Card,"63966 Taylor Wells Apt. 347
+Lake Carol, MO 40639",2023-05-19,Shipped
+461,2023-07-14,507,38,11,309.02,8647.68,0.27,0.09,Cash,"91404 Philip Stream
+West John, GA 23992",2023-09-19,Cancelled
+462,2020-05-06,585,8,18,481.07,8399.3,0.29,0.06,Debit Card,"3522 Michael Way
+East Williamview, AL 33616",2020-05-26,Shipped
+463,2021-12-04,591,77,20,499.43,8465.33,0.25,0.15,Cash,"05088 Susan Isle Apt. 970
+Danaberg, ND 72231",2021-06-21,Pending
+464,2022-02-05,479,116,5,324.59,9695.65,0.28,0.02,Debit Card,"86923 Dunn Trafficway Suite 100
+New Richard, KS 24977",2023-08-22,Cancelled
+465,2020-07-06,106,66,19,117.62,2338.61,0.28,0.02,Online Payment,"6322 Damon Forest
+West Tinashire, IL 01130",2021-10-11,Delivered
+466,2023-09-11,824,25,6,421.08,9879.79,0.02,0.09,Cash,"7543 Yates Brook Suite 811
+Brownshire, TX 14625",2022-07-10,Delivered
+467,2021-03-27,256,152,6,353.01,1646.53,0.28,0.13,Online Payment,"3897 Farley Villages Apt. 640
+West Tashashire, OH 55991",2020-10-31,Cancelled
+468,2021-06-14,83,157,2,354.51,2703.96,0.18,0.08,Debit Card,"764 John Tunnel
+North Devinview, KY 98136",2022-06-29,Shipped
+469,2022-05-04,793,135,17,102.14,9205.24,0.08,0.12,Debit Card,"53924 Perez Mountain Apt. 713
+Smithside, VA 97586",2022-09-03,Delivered
+470,2023-10-07,287,134,12,24.33,5108.7,0.26,0.18,Debit Card,"250 Lara Branch Suite 195
+South Mckenzie, OH 67974",2020-12-18,Delivered
+471,2020-12-09,928,94,4,397.53,937.73,0.27,0.05,Online Payment,"70722 Martin Square Apt. 134
+New Tracy, CO 87215",2021-04-17,Delivered
+472,2022-10-07,439,109,15,275.5,8065.04,0.1,0.02,Debit Card,"96079 Mcguire Trace Suite 724
+Mooreton, WA 98352",2021-09-27,Delivered
+473,2022-02-15,961,58,19,473.35,7785.09,0.11,0.16,Online Payment,"59092 Whitney Station
+Chenborough, IL 70044",2023-08-08,Shipped
+474,2020-04-24,632,135,11,213.94,4890.52,0.07,0.16,Online Payment,"22179 Hutchinson Wall
+North Jennifer, LA 15732",2023-11-26,Delivered
+475,2020-11-08,475,37,5,392.45,9188.24,0.02,0.06,Debit Card,"Unit 9249 Box 0936
+DPO AE 82805",2023-08-31,Cancelled
+476,2022-12-28,649,175,8,316.07,7543.98,0.11,0.08,Online Payment,"0170 Shawn Plaza Suite 393
+Torresmouth, DE 17817",2020-01-23,Pending
+477,2023-01-18,561,82,5,90.57,1954.51,0.09,0.11,Online Payment,"64825 Courtney Path
+Debbieland, KS 92445",2020-06-16,Delivered
+478,2022-03-04,644,5,18,252.05,4156.06,0.07,0.14,Credit Card,"0992 Sanchez Stream
+North Michelleborough, AR 88212",2020-02-19,Shipped
+479,2023-05-07,567,171,17,16.75,6388.12,0.19,0.16,Credit Card,"451 Blake Mill
+Chaveztown, NH 70188",2020-08-03,Delivered
+480,2021-05-19,440,41,2,91.39,7952.26,0.19,0.09,Debit Card,"69616 Brian Hill Apt. 835
+Lauraton, ND 89947",2020-11-30,Cancelled
+481,2023-02-13,525,146,3,45.59,6701.66,0.1,0.11,Online Payment,"890 Choi Manors Suite 189
+Scottport, MD 80930",2021-09-05,Shipped
+482,2020-12-23,48,159,4,312.07,1234.61,0.14,0.06,Online Payment,"287 Wolfe Field Apt. 045
+Thomasburgh, MD 83548",2020-09-09,Delivered
+483,2020-04-26,798,17,20,375.73,590.7,0.14,0.07,Credit Card,"48235 Michael Inlet
+North Autumn, AK 80037",2021-09-29,Shipped
+484,2020-12-12,493,29,7,89.49,5181.12,0.18,0.18,Debit Card,"0069 Hubbard Junction
+West Heather, KY 50591",2020-10-14,Delivered
+485,2021-05-27,109,43,12,103.72,1720.49,0.06,0.12,Cash,"220 Morales Knoll
+Williamsland, CT 11215",2021-08-30,Shipped
+486,2020-03-16,475,2,16,10.53,3447.33,0.16,0.06,Online Payment,"71846 Jasmine Hills Suite 951
+Sallyfort, FL 17256",2022-11-02,Shipped
+487,2022-11-15,329,168,4,127.78,2562.93,0.03,0.09,Online Payment,"75267 Johnson Ports Suite 066
+West Patricia, ND 07374",2023-04-30,Cancelled
+488,2021-11-05,867,122,10,346.24,480.04,0.06,0.11,Credit Card,"8572 Theodore Estates Suite 506
+North Donaldton, NC 15381",2022-04-21,Pending
+489,2020-12-22,191,16,18,452.09,9995.56,0.12,0.08,Online Payment,"4914 Baker Meadow Suite 992
+Matthewchester, MS 45637",2023-10-18,Pending
+490,2021-10-07,48,168,17,199.5,6357.36,0.02,0.18,Debit Card,"524 Phillips Green Suite 284
+Lake Lauren, AK 35074",2021-12-07,Pending
+491,2022-08-11,247,191,12,320.49,4549.59,0.09,0.01,Online Payment,"0617 Miller Valleys Apt. 132
+Lake Samanthafort, WY 83020",2021-04-08,Pending
+492,2020-08-06,485,102,4,182.93,4799.34,0.28,0.07,Cash,"6506 Mata Mountain
+Tiffanychester, NE 98430",2023-10-27,Delivered
+493,2022-04-15,199,9,15,79.04,5609.47,0.03,0.03,Cash,"130 Shelton Walks
+New Willie, WA 24073",2021-12-24,Shipped
+494,2023-04-04,615,142,7,354.94,4287.29,0.23,0.12,Credit Card,"06504 Mcmillan Drives Suite 969
+Port Andrea, MO 93898",2020-02-21,Pending
+495,2021-05-22,599,160,13,390.74,9067.41,0.04,0.06,Online Payment,"023 Jonathan Island
+Kimberlytown, RI 76562",2023-12-25,Delivered
+496,2021-08-02,548,21,8,236.38,4008.71,0.02,0.16,Debit Card,"55030 Nelson Spur
+Lake Ginaberg, MS 19152",2022-06-13,Shipped
+497,2020-02-06,83,53,19,175.87,5404.1,0.2,0.03,Cash,"3208 Francis Ports Apt. 099
+Crystalview, OR 93914",2022-06-25,Cancelled
+498,2021-05-09,923,149,2,432.25,7720.51,0.01,0.16,Credit Card,"335 Brooks Mall
+Port Juliemouth, WA 78516",2021-06-30,Pending
+499,2020-03-19,890,110,18,450.05,338.97,0.29,0.16,Cash,"9657 Garcia Mission
+Port Sherishire, ID 40387",2022-01-08,Shipped
+500,2020-06-04,971,161,15,174.36,685.57,0.21,0.01,Cash,"80600 Michelle Landing
+Port Elijah, DE 59158",2020-01-14,Delivered
+501,2020-04-21,892,192,3,402.59,8839.01,0.02,0.16,Online Payment,"28984 Dominguez Walks Suite 440
+Jonathanland, TX 01153",2021-07-30,Shipped
+502,2022-02-23,819,120,13,107.91,3042.12,0.12,0.06,Credit Card,"67122 Jonathan Parks
+Bankston, KY 25070",2022-02-06,Cancelled
+503,2023-11-27,267,44,12,450.86,1695.87,0.24,0.0,Credit Card,"268 Hill Mission Suite 348
+Robertsshire, NH 75341",2023-05-09,Delivered
+504,2023-09-30,577,182,14,113.0,9575.04,0.1,0.07,Online Payment,"7952 Elizabeth Inlet Apt. 746
+Holmesburgh, UT 91961",2021-03-03,Cancelled
+505,2022-03-16,428,147,7,195.93,4754.75,0.08,0.12,Cash,"5527 Erik Point Apt. 372
+East Karen, NV 44403",2023-08-25,Shipped
+506,2021-06-24,43,92,10,188.83,6403.62,0.0,0.19,Online Payment,"5260 Davis Harbors
+Smithmouth, ND 39192",2020-01-09,Shipped
+507,2022-02-02,841,135,10,231.96,9890.92,0.0,0.14,Online Payment,"8680 Connie Stream
+North Jessicafurt, MA 08531",2021-04-23,Cancelled
+508,2021-10-20,145,159,13,25.18,3334.42,0.29,0.17,Cash,"1991 Castro Lane Suite 950
+South Adamfurt, NH 82665",2023-07-17,Delivered
+509,2021-12-23,910,90,16,247.88,5542.1,0.03,0.09,Credit Card,"114 Henry Plain
+Jessicafurt, KY 47628",2020-11-30,Cancelled
+510,2023-05-31,781,194,9,49.53,7238.74,0.03,0.02,Debit Card,"67599 Tucker Mount Apt. 269
+West Joshuashire, AL 37407",2022-03-25,Cancelled
+511,2020-08-06,982,168,3,316.5,7584.12,0.15,0.06,Cash,"242 Carter Shoal Suite 321
+Ayalaburgh, MT 50220",2020-09-24,Delivered
+512,2021-12-05,289,138,15,118.06,4174.39,0.17,0.09,Online Payment,"4282 Catherine Greens
+Foleychester, ID 37832",2023-05-11,Pending
+513,2022-06-07,449,6,10,233.86,2640.58,0.05,0.01,Cash,"0489 Kevin River Apt. 433
+Katiebury, NJ 33174",2023-05-07,Cancelled
+514,2023-05-27,859,184,9,377.69,3366.23,0.04,0.14,Credit Card,"34634 Hall Motorway Suite 330
+Phillipshaven, MT 64902",2023-03-03,Cancelled
+515,2021-03-29,259,187,11,480.17,8440.89,0.17,0.15,Credit Card,"5499 Priscilla Well Suite 487
+Hernandeztown, AR 60211",2020-07-23,Shipped
+516,2021-03-04,678,161,13,272.57,8719.65,0.03,0.0,Online Payment,"608 Morales Bypass
+South Samuelchester, MO 54701",2021-02-22,Shipped
+517,2020-08-24,249,35,15,177.22,6354.08,0.04,0.12,Online Payment,"678 Daniel Village
+Mileshaven, OR 89993",2022-12-30,Pending
+518,2020-10-05,213,184,13,5.25,8733.52,0.13,0.02,Cash,"739 Joshua Junction
+Deleonchester, ID 88585",2023-10-30,Pending
+519,2023-02-28,325,116,18,98.94,6600.67,0.2,0.15,Debit Card,"813 Amanda Tunnel
+East Donaldhaven, CA 57050",2021-03-31,Pending
+520,2020-04-14,552,181,6,271.67,9114.64,0.2,0.11,Debit Card,"8573 David Unions Suite 695
+Anthonyton, AR 33628",2020-08-31,Cancelled
+521,2023-12-12,287,5,8,248.46,5578.29,0.22,0.08,Cash,"3911 Tina Flats
+North Jasmine, DC 87155",2020-07-22,Shipped
+522,2020-01-12,819,30,17,494.76,621.03,0.19,0.08,Online Payment,"0050 Beverly Mission Suite 455
+Lake Johnnyborough, OH 15248",2020-02-04,Pending
+523,2020-10-21,887,169,19,494.72,8750.5,0.12,0.01,Cash,"249 Butler Knolls
+North Christinebury, CA 58919",2022-09-17,Pending
+524,2020-08-04,571,183,17,166.78,1886.04,0.04,0.0,Debit Card,"834 Carroll Viaduct
+Taylorburgh, NE 72378",2021-08-29,Cancelled
+525,2020-08-14,158,33,8,26.91,8407.23,0.24,0.13,Credit Card,"90316 Chelsea Mountains Apt. 203
+East Lorraine, IL 03405",2023-12-26,Pending
+526,2020-09-16,247,51,17,407.65,7818.47,0.18,0.08,Online Payment,"60325 Jonathon Points
+Petersenstad, AR 16871",2022-12-15,Delivered
+527,2021-05-30,248,72,3,158.45,379.12,0.29,0.13,Debit Card,"5875 Jennifer Pass Suite 066
+Port Andrew, HI 10700",2020-11-06,Pending
+528,2023-05-24,246,99,1,411.34,9436.36,0.29,0.16,Online Payment,"64147 April Shoal Apt. 849
+North Gregoryfort, MI 67968",2021-10-04,Delivered
+529,2021-03-28,35,158,12,355.95,6016.72,0.26,0.05,Online Payment,"2061 Smith Crossing
+Nguyenborough, OK 44433",2020-01-31,Pending
+530,2023-08-27,537,102,18,62.65,1052.15,0.2,0.13,Credit Card,"7233 Dunn Parkways
+West Nicolefort, MI 25557",2021-02-22,Pending
+531,2020-09-30,961,197,6,309.4,839.35,0.11,0.13,Online Payment,"24135 Mcknight Tunnel
+Melissatown, NE 31186",2021-03-02,Shipped
+532,2022-07-02,367,97,2,125.95,7946.86,0.13,0.15,Debit Card,"Unit 7605 Box 6213
+DPO AP 14690",2020-01-25,Cancelled
+533,2021-01-28,144,188,7,181.17,9513.47,0.06,0.14,Online Payment,"525 Brandon Knoll
+Scottborough, SC 95940",2020-08-29,Cancelled
+534,2020-07-26,206,160,18,130.04,8168.72,0.25,0.07,Online Payment,"8056 Johnny Oval Suite 520
+Martinezshire, IL 65844",2020-07-28,Delivered
+535,2023-02-12,87,87,16,118.06,2434.51,0.16,0.1,Credit Card,"67127 Michael Streets
+West Thomasstad, WA 64628",2023-01-27,Delivered
+536,2022-02-03,213,155,18,308.32,6054.93,0.19,0.11,Debit Card,"8576 Destiny Rest
+Watkinsstad, TX 72404",2022-08-20,Cancelled
+537,2023-12-04,95,177,8,151.57,9847.63,0.24,0.18,Credit Card,"80724 Rose Way Suite 397
+Port Alexandra, CO 49209",2022-07-30,Cancelled
+538,2020-03-24,836,30,2,24.05,2913.83,0.0,0.01,Cash,"992 Carla Lake Suite 223
+West Lisaville, RI 48675",2022-08-06,Shipped
+539,2020-09-24,633,42,10,143.42,8182.49,0.01,0.18,Debit Card,"509 Erin Alley Apt. 516
+West Paulside, ID 64010",2022-09-05,Pending
+540,2021-06-15,689,173,17,28.81,6823.48,0.21,0.13,Credit Card,"42263 Garza Plaza Apt. 384
+Port Michellechester, VT 65730",2022-05-17,Shipped
+541,2022-06-23,508,79,20,146.81,669.11,0.25,0.11,Credit Card,"19573 Kimberly Glens
+North Markburgh, FL 58833",2020-05-26,Cancelled
+542,2020-04-02,819,148,8,37.65,2803.06,0.05,0.15,Debit Card,"USNV Wood
+FPO AA 80090",2023-01-30,Cancelled
+543,2023-11-08,64,123,13,484.98,7687.05,0.1,0.18,Debit Card,"695 Kenneth Isle Apt. 851
+East Justinmouth, WV 81424",2020-05-05,Shipped
+544,2022-07-18,577,109,6,426.12,4567.47,0.02,0.19,Cash,"696 Steven Point Suite 687
+South Tiffanyview, VA 55743",2021-05-21,Pending
+545,2022-05-02,850,133,12,451.97,8403.83,0.19,0.08,Debit Card,"516 Logan Extensions
+Timothystad, NC 02750",2023-02-18,Delivered
+546,2023-10-24,122,122,7,460.77,9378.45,0.04,0.11,Online Payment,"Unit 3361 Box 0660
+DPO AA 54692",2022-03-12,Delivered
+547,2021-06-23,314,23,4,126.67,9486.96,0.13,0.04,Credit Card,"0398 Hannah Common
+Amandahaven, TN 55699",2021-04-11,Shipped
+548,2021-12-27,120,21,7,379.53,1723.49,0.14,0.08,Online Payment,"PSC 5580, Box 6822
+APO AE 44507",2020-11-08,Shipped
+549,2021-07-07,272,177,8,50.73,7596.43,0.18,0.12,Cash,"9027 Odonnell Ville Apt. 034
+Brownview, NE 63051",2022-10-03,Shipped
+550,2021-06-17,124,30,16,270.75,7178.47,0.13,0.18,Debit Card,"8743 Knapp Corner
+Jenniferton, ME 98837",2023-08-24,Cancelled
+551,2023-03-24,207,149,13,426.24,715.49,0.21,0.08,Debit Card,"417 Joseph Summit
+Amandafort, NJ 69968",2021-04-07,Pending
+552,2023-06-23,42,175,6,33.66,1714.33,0.03,0.14,Online Payment,"7652 Michael Run Apt. 415
+Andrewfort, AZ 34117",2020-07-01,Shipped
+553,2023-08-19,639,129,4,77.87,7914.56,0.3,0.05,Debit Card,"5404 Brewer Lane
+Darrellport, UT 98698",2020-04-24,Delivered
+554,2020-11-18,792,161,20,149.59,3658.45,0.3,0.18,Credit Card,"48584 Michael Centers Suite 051
+South Christopherberg, NC 12052",2023-03-10,Delivered
+555,2020-10-03,234,48,8,170.07,3440.4,0.2,0.19,Credit Card,"234 Andrew Drive
+North Sylvia, DE 50287",2020-05-12,Shipped
+556,2022-12-10,735,67,8,393.41,5162.83,0.11,0.16,Online Payment,"886 Pierce Manors Suite 042
+East Amanda, VT 27789",2023-12-25,Pending
+557,2020-04-16,396,96,12,250.01,4375.77,0.02,0.13,Credit Card,"66253 Mack Field Suite 952
+Port Samantha, MA 25617",2020-07-09,Shipped
+558,2020-01-09,669,126,16,407.84,6055.35,0.03,0.13,Online Payment,"62719 Heather Curve Suite 092
+North Michael, DC 24525",2020-05-10,Cancelled
+559,2020-11-03,626,199,4,137.89,7074.07,0.02,0.06,Credit Card,"353 Martin Prairie Suite 188
+Cantuport, TN 68174",2023-07-18,Delivered
+560,2022-10-29,846,144,2,180.1,1332.33,0.0,0.09,Cash,"55449 Thomas Loop Suite 273
+Stephaniechester, ID 85991",2023-02-19,Pending
+561,2020-09-22,74,106,3,313.94,5611.78,0.07,0.03,Debit Card,"48079 Hansen Island Apt. 974
+West Lance, TX 86512",2020-06-03,Shipped
+562,2022-05-05,399,6,6,11.61,7345.58,0.28,0.17,Cash,"5831 William Roads Suite 783
+Michellefurt, IN 41623",2022-02-04,Shipped
+563,2020-04-12,627,31,9,246.04,992.81,0.28,0.06,Online Payment,"0822 Jessica Inlet Apt. 891
+South Joel, NM 74649",2021-11-30,Shipped
+564,2021-05-31,14,92,7,97.87,6937.24,0.24,0.11,Credit Card,"323 Justin Pass Suite 042
+South Oscarchester, WI 94128",2022-05-04,Shipped
+565,2020-11-09,363,98,14,28.92,119.3,0.07,0.18,Online Payment,"02253 Chad Unions
+Smithside, OH 12060",2020-03-22,Pending
+566,2020-03-04,509,82,10,392.07,2132.81,0.08,0.04,Online Payment,"77722 Malone Knolls Suite 057
+South Erin, NY 17475",2021-08-16,Pending
+567,2021-08-28,99,8,18,269.0,5847.98,0.0,0.07,Debit Card,"2591 Daryl Shore
+Danielleshire, IA 72190",2023-03-17,Shipped
+568,2022-10-08,60,52,15,469.7,7686.64,0.07,0.17,Cash,"1817 Wilson Key Suite 733
+East Thomasville, WY 80312",2021-08-18,Shipped
+569,2023-08-07,76,135,14,12.1,1514.26,0.17,0.02,Debit Card,"05739 Mora Land
+New Melissaville, MT 92234",2020-05-05,Delivered
+570,2020-12-21,174,125,17,281.08,5431.41,0.02,0.18,Cash,"72789 Sosa Green Suite 128
+Bensonview, TN 67272",2020-09-06,Shipped
+571,2021-02-04,123,36,15,190.33,7212.64,0.26,0.14,Online Payment,"8601 Baker Isle
+Lake Gregory, AK 04299",2021-11-20,Cancelled
+572,2022-02-26,661,161,8,333.91,9159.66,0.15,0.05,Debit Card,"0367 Michael Drive Suite 309
+Lake Jillfurt, FL 44886",2020-12-08,Shipped
+573,2020-02-15,471,67,1,75.01,8298.98,0.25,0.07,Credit Card,"8633 Murphy Junctions
+North Debrastad, MO 73044",2022-06-23,Shipped
+574,2020-04-30,173,86,11,338.42,6854.67,0.17,0.0,Debit Card,"85353 Brian Gateway Suite 735
+Lake Arthurtown, GA 35144",2022-05-27,Delivered
+575,2021-04-08,651,1,13,60.91,509.66,0.13,0.15,Online Payment,"566 Thomas Curve Apt. 925
+North Cathy, RI 04397",2022-06-17,Shipped
+576,2022-04-25,808,75,15,19.38,3134.36,0.02,0.0,Online Payment,"65014 Russell Bridge
+Josephberg, NH 10624",2021-01-27,Cancelled
+577,2023-04-13,722,129,19,207.67,1748.18,0.01,0.1,Cash,"Unit 1705 Box 2648
+DPO AE 00834",2023-12-27,Delivered
+578,2021-12-17,303,101,13,170.6,7068.75,0.2,0.11,Online Payment,"463 Angela Stream
+Lake Cindyport, NV 32519",2021-01-19,Delivered
+579,2022-11-08,586,114,8,131.12,4712.86,0.19,0.16,Debit Card,"12605 Garcia Freeway Apt. 425
+Lisamouth, IL 75716",2023-07-03,Delivered
+580,2022-06-30,756,29,9,408.33,1084.23,0.18,0.09,Cash,"630 Luke Plain Apt. 904
+Brownhaven, MO 94140",2020-03-02,Shipped
+581,2023-02-09,2,148,13,37.27,3747.45,0.06,0.02,Debit Card,"1162 Little River
+Davidburgh, DC 20089",2023-11-25,Delivered
+582,2023-03-15,140,31,3,82.61,6366.05,0.16,0.07,Online Payment,"94899 Mcdaniel Plaza Apt. 518
+Johnsonstad, NY 29787",2022-04-23,Shipped
+583,2023-04-26,93,122,18,159.65,2622.16,0.04,0.09,Online Payment,"000 Yates Freeway
+Port Carrie, IA 97575",2020-02-13,Pending
+584,2022-11-28,707,23,11,63.02,3050.11,0.23,0.2,Credit Card,"USNS Shannon
+FPO AP 24768",2020-03-12,Shipped
+585,2022-01-15,258,47,16,99.14,4790.25,0.11,0.19,Cash,"PSC 5710, Box 5440
+APO AP 85181",2022-08-11,Shipped
+586,2022-02-15,805,144,19,252.26,7216.88,0.19,0.08,Debit Card,"2406 April Viaduct Suite 903
+Smithstad, CO 17808",2023-08-23,Shipped
+587,2020-10-25,794,45,17,210.53,7048.97,0.16,0.03,Online Payment,"1298 Charles Plains Apt. 193
+Shannonfurt, IL 59922",2020-03-26,Pending
+588,2022-06-02,918,69,6,16.97,400.73,0.04,0.0,Credit Card,"903 Rachel Throughway Suite 935
+New Joseph, MO 19364",2023-11-22,Pending
+589,2021-05-27,984,10,14,109.11,5765.04,0.07,0.15,Credit Card,"25405 Blevins Views
+Lamfort, WV 26953",2023-08-23,Cancelled
+590,2022-08-25,903,178,18,36.59,985.59,0.23,0.06,Debit Card,"209 Johnson Dale
+South Jennifer, IN 57203",2022-10-31,Shipped
+591,2023-07-26,189,47,17,398.55,3507.78,0.26,0.14,Credit Card,"979 Todd Motorway Apt. 598
+Perkinsmouth, MN 56460",2020-07-02,Delivered
+592,2022-01-02,371,196,8,107.69,7675.68,0.2,0.01,Debit Card,"PSC 7712, Box 2013
+APO AE 57882",2020-11-08,Shipped
+593,2022-09-08,269,178,8,441.85,6424.94,0.21,0.15,Online Payment,"49841 Brenda Pines Suite 449
+New Melissafort, MI 86351",2022-05-03,Cancelled
+594,2023-05-28,759,92,16,312.69,5696.17,0.17,0.07,Cash,"8469 Garcia Rest
+Gonzalezland, ID 84996",2020-11-06,Cancelled
+595,2023-09-03,745,15,13,74.91,7640.75,0.24,0.07,Cash,"766 Amanda Throughway Suite 278
+South Jonathanhaven, NH 98619",2022-08-07,Delivered
+596,2021-03-18,238,88,7,490.32,4635.23,0.04,0.05,Online Payment,"69997 Nicole Shoals Suite 071
+Jennifershire, AK 88183",2021-06-19,Shipped
+597,2023-07-28,9,48,20,271.06,9266.74,0.15,0.18,Online Payment,"724 Watson Crest
+Wilkinsfort, AZ 45654",2021-05-03,Shipped
+598,2023-06-18,548,155,18,47.48,2264.34,0.08,0.15,Online Payment,"029 Colon Points
+Julieberg, CO 92746",2023-05-09,Pending
+599,2023-04-22,206,1,12,417.76,5433.8,0.06,0.03,Online Payment,"825 Kyle Lake Apt. 136
+Melendezview, NV 27099",2022-05-22,Pending
+600,2021-12-08,661,110,13,21.17,8162.16,0.07,0.13,Cash,"329 Cooper Junction Apt. 984
+Williamsburgh, SD 79846",2021-12-12,Cancelled
+601,2021-08-05,194,66,3,499.98,5731.1,0.07,0.17,Online Payment,"2752 John Estate
+South Patrick, AL 91266",2023-01-20,Delivered
+602,2023-01-21,768,86,10,129.87,6991.1,0.19,0.05,Cash,"30718 Oliver Roads
+Garnerton, AR 98758",2021-07-17,Cancelled
+603,2021-07-23,734,23,17,465.24,5716.89,0.01,0.08,Credit Card,"6312 Vickie Spur
+Joneschester, WI 75524",2020-09-29,Shipped
+604,2023-12-27,43,17,11,217.07,1254.52,0.23,0.01,Online Payment,"42365 Frances Estates
+Mackfort, IA 88791",2022-01-29,Cancelled
+605,2022-04-07,701,74,14,128.17,398.76,0.09,0.09,Debit Card,"846 Mccormick Hills
+New Lauren, ME 11240",2020-01-18,Delivered
+606,2022-06-29,103,38,19,380.62,4574.57,0.14,0.1,Debit Card,"28698 Daniel Street
+Jenkinsburgh, GA 56207",2021-08-30,Delivered
+607,2023-01-27,14,131,4,110.6,2000.98,0.05,0.11,Credit Card,"693 Vargas Circle Suite 415
+Port Thomasberg, TX 32557",2022-10-11,Cancelled
+608,2020-12-18,822,91,19,300.98,522.21,0.28,0.16,Cash,"1404 Christopher Knoll
+Loriside, AR 63213",2021-02-17,Cancelled
+609,2023-05-20,490,126,18,108.96,4338.19,0.18,0.17,Credit Card,"144 Horne Park
+Port Cynthia, MO 57185",2022-09-14,Pending
+610,2020-06-03,880,170,19,194.66,1952.23,0.13,0.11,Debit Card,"008 Romero Lock
+Jasonside, NY 93761",2023-09-11,Delivered
+611,2022-10-02,119,37,5,147.23,6171.54,0.1,0.14,Debit Card,"0132 Connie Prairie Apt. 273
+Maxhaven, AL 15162",2020-12-03,Pending
+612,2023-04-11,742,72,1,106.99,66.41,0.14,0.15,Online Payment,"6023 Brittany Meadows
+Angelabury, VT 85762",2021-08-29,Delivered
+613,2023-10-27,673,30,8,465.28,2978.82,0.13,0.08,Credit Card,"8519 Lindsey Meadow Apt. 425
+Brownton, WI 26533",2022-10-26,Shipped
+614,2020-04-21,870,38,2,320.4,3313.04,0.1,0.13,Credit Card,"Unit 1009 Box 7079
+DPO AA 53448",2023-09-08,Shipped
+615,2020-09-21,20,152,14,87.9,9255.27,0.14,0.13,Cash,"846 George Islands
+East Amybury, AZ 13688",2020-06-19,Delivered
+616,2020-04-20,285,68,11,27.48,559.78,0.21,0.05,Online Payment,"042 Michelle Corners Suite 063
+Johnmouth, NH 50887",2022-10-17,Delivered
+617,2021-05-09,639,51,20,221.86,4527.17,0.29,0.17,Credit Card,"227 Christina Lock
+Katelynshire, MT 47251",2020-10-10,Delivered
+618,2022-10-01,923,41,14,276.15,8116.86,0.27,0.08,Debit Card,"479 Ruiz Parks Apt. 979
+Perkinsfort, ND 19745",2020-08-27,Shipped
+619,2022-01-19,810,130,18,216.65,4462.68,0.09,0.2,Credit Card,"USNV Washington
+FPO AP 59774",2021-11-28,Cancelled
+620,2023-06-05,266,197,12,134.11,7746.66,0.12,0.14,Cash,"8283 Mary Shoals Apt. 658
+New Renee, TN 16230",2020-12-03,Cancelled
+621,2022-05-03,448,168,20,79.53,3030.07,0.15,0.11,Debit Card,"1863 Freeman Bypass Apt. 696
+North Lisabury, MN 73070",2021-03-09,Cancelled
+622,2020-08-05,290,114,16,143.7,5721.92,0.04,0.1,Online Payment,"34015 Jack Crossroad Suite 569
+Brownstad, OK 29214",2021-05-31,Cancelled
+623,2021-08-07,54,169,19,430.02,3026.58,0.09,0.15,Online Payment,"225 Foley Overpass
+Shannonhaven, GA 40525",2022-08-01,Delivered
+624,2021-08-23,414,131,19,255.83,3226.17,0.12,0.03,Credit Card,"767 Megan Valleys Apt. 750
+Bethbury, VT 46661",2022-10-04,Cancelled
+625,2023-11-20,979,116,10,102.99,7454.76,0.07,0.16,Cash,"183 Kenneth Street
+Oliviaburgh, WI 56319",2022-10-04,Pending
+626,2022-05-11,136,1,11,283.57,5482.81,0.07,0.1,Credit Card,"999 Arias Flat Suite 569
+Hallville, CA 74470",2020-03-15,Delivered
+627,2022-05-14,234,3,11,242.75,3896.38,0.19,0.11,Online Payment,"202 Jeremy Island
+West Edwardtown, NC 73946",2021-05-14,Cancelled
+628,2023-03-14,111,159,8,38.36,8277.49,0.26,0.15,Cash,"378 Martinez Street Suite 217
+Lake Teresaberg, KS 37075",2022-12-26,Delivered
+629,2023-02-24,116,124,13,410.41,2970.66,0.16,0.14,Debit Card,"092 White Light
+New Gabrielbury, KY 27151",2023-07-27,Pending
+630,2020-01-13,912,88,1,15.54,7977.64,0.11,0.1,Online Payment,"7336 Kayla Well
+Port Christina, WA 46917",2020-09-28,Pending
+631,2022-09-02,870,134,14,184.57,9982.99,0.08,0.12,Credit Card,"653 Thompson Parkways
+East Michelleshire, FL 41224",2020-10-16,Pending
+632,2022-08-14,573,144,15,227.64,4487.55,0.25,0.02,Cash,"535 Eric Ways
+Kennethbury, OH 09933",2020-11-11,Cancelled
+633,2022-04-12,765,179,10,285.38,579.62,0.12,0.05,Credit Card,"089 Terry Bypass
+Brandonstad, IA 94228",2022-09-12,Delivered
+634,2020-11-01,618,42,7,224.5,180.84,0.25,0.05,Online Payment,"495 Leah Circle Apt. 779
+Phillipburgh, VA 41350",2022-06-12,Delivered
+635,2020-07-18,932,21,12,265.52,8301.47,0.29,0.12,Cash,"8423 Christine Trace Apt. 429
+West Andrew, AR 85011",2023-01-09,Pending
+636,2022-05-02,897,171,1,449.39,7565.39,0.26,0.1,Credit Card,"769 Oliver Village
+Candiceburgh, RI 11362",2020-10-05,Shipped
+637,2021-02-17,259,80,15,422.03,7278.44,0.1,0.05,Cash,"8135 Brown Streets Suite 001
+New Michael, VT 66598",2022-12-20,Pending
+638,2021-07-05,221,89,7,477.41,3910.94,0.28,0.14,Online Payment,"5887 Thomas Ways
+Amberfort, TN 22324",2023-08-24,Cancelled
+639,2020-11-19,889,47,2,478.71,5464.89,0.04,0.03,Debit Card,"30065 Joseph Square
+Port Leahport, AR 71682",2022-05-20,Shipped
+640,2020-09-11,53,111,5,325.05,9394.23,0.17,0.18,Credit Card,"USNV Trujillo
+FPO AE 93168",2022-03-18,Pending
+641,2022-10-10,779,137,2,481.96,295.95,0.07,0.17,Debit Card,"146 Baker Meadows Suite 575
+Aprilberg, VA 18938",2021-03-24,Cancelled
+642,2023-07-31,344,160,5,215.64,7270.79,0.18,0.18,Debit Card,"491 Carolyn Street Apt. 714
+Lake Carrie, PA 89062",2020-06-13,Shipped
+643,2021-07-16,129,11,13,300.61,4742.63,0.06,0.1,Cash,"USNS Rodriguez
+FPO AA 74109",2020-01-24,Delivered
+644,2020-02-29,125,124,12,424.44,5030.97,0.04,0.14,Credit Card,"15014 Nathan Crescent
+Watkinsfurt, IL 59776",2020-05-18,Cancelled
+645,2021-02-22,634,100,8,427.97,6060.11,0.27,0.13,Debit Card,"5940 Kyle Estates
+Lake Cody, MD 25355",2020-12-17,Shipped
+646,2020-08-31,132,145,6,87.25,3199.45,0.21,0.17,Debit Card,"713 Brooke Field Apt. 549
+Evanstown, MD 35030",2021-07-25,Pending
+647,2022-01-17,851,47,11,150.42,2109.23,0.26,0.0,Credit Card,"8057 Robinson Ville
+Jamesshire, WV 30341",2023-11-09,Pending
+648,2021-01-05,896,155,16,229.38,9293.41,0.03,0.08,Online Payment,"USS Johnson
+FPO AP 54433",2020-04-11,Shipped
+649,2021-08-13,985,2,18,108.3,9823.8,0.13,0.03,Debit Card,"2624 Flores Avenue Suite 895
+New Christina, DE 11443",2022-10-12,Shipped
+650,2022-06-01,804,179,14,187.12,5425.07,0.24,0.09,Debit Card,"USNV Atkins
+FPO AE 18734",2021-11-16,Delivered
+651,2022-01-21,542,13,19,170.29,3401.35,0.29,0.16,Credit Card,"USNV Rogers
+FPO AA 36037",2021-12-28,Shipped
+652,2020-10-16,677,169,19,220.67,9067.53,0.23,0.11,Credit Card,"185 Stephens Parkway Suite 859
+Zacharytown, HI 10333",2021-02-18,Shipped
+653,2022-02-13,863,188,8,461.97,8558.96,0.26,0.17,Cash,"714 Michael Burgs
+Grayville, ID 30552",2022-08-17,Pending
+654,2021-11-25,806,123,10,256.5,4604.79,0.2,0.1,Credit Card,"2676 Evans Ferry
+Brownburgh, PA 56748",2021-08-31,Pending
+655,2022-12-06,369,102,16,164.45,7670.7,0.29,0.08,Cash,"076 Morgan Dam Apt. 474
+Rogerland, IL 81904",2023-12-21,Delivered
+656,2020-04-28,971,182,11,135.54,4887.98,0.03,0.15,Cash,"11611 Scott Rapid Apt. 890
+Wilsonfort, NV 12992",2021-10-04,Cancelled
+657,2023-01-07,759,171,13,336.41,2564.84,0.11,0.01,Debit Card,"80906 Jared Land
+Louisbury, TN 81553",2023-12-05,Shipped
+658,2023-12-04,512,46,4,383.74,640.92,0.01,0.1,Online Payment,"46607 William Forges Suite 244
+Meyermouth, IN 98580",2020-01-22,Cancelled
+659,2022-11-03,152,194,2,62.62,8796.24,0.23,0.19,Debit Card,"112 Christine Cliffs Suite 325
+Lake Joshuafurt, NJ 64277",2023-10-21,Cancelled
+660,2021-03-08,726,13,15,300.4,1161.48,0.24,0.12,Debit Card,"337 Wong Harbor Suite 473
+Bradleybury, ID 40191",2023-03-16,Cancelled
+661,2021-06-04,946,141,11,459.49,2553.14,0.11,0.04,Debit Card,"0117 Donald Ways Apt. 701
+Gibbstown, MO 71634",2021-04-30,Delivered
+662,2022-02-18,905,116,17,89.56,4783.55,0.07,0.11,Credit Card,"593 Galvan Cape
+Aaronmouth, MS 14757",2021-10-21,Delivered
+663,2021-05-30,242,36,13,471.22,5733.32,0.02,0.14,Debit Card,"39253 Debbie Burgs
+Lake Derrickmouth, TN 59771",2020-11-06,Pending
+664,2021-01-04,414,95,18,205.46,2640.21,0.29,0.05,Cash,"731 Fowler Highway Suite 182
+Sandraside, CO 40238",2021-11-09,Pending
+665,2022-03-02,492,134,9,97.88,4935.55,0.29,0.14,Cash,"1774 Nicholas Ways
+Cranemouth, MI 15571",2021-01-18,Cancelled
+666,2021-02-11,178,181,12,295.63,6785.4,0.25,0.18,Credit Card,"3591 Kathleen Fords
+North Josephshire, HI 36069",2021-01-05,Cancelled
+667,2023-01-27,489,135,1,491.96,5143.1,0.07,0.08,Cash,"124 Sweeney Lodge Apt. 878
+East Dennis, IN 90578",2022-11-27,Pending
+668,2022-03-14,780,185,14,486.13,9215.32,0.22,0.07,Debit Card,"32465 Angie Street Suite 818
+East Josephfurt, OR 13479",2020-08-03,Cancelled
+669,2021-12-29,813,158,10,68.98,8979.12,0.23,0.09,Online Payment,"731 David Flat Apt. 480
+North Ronald, PA 06475",2023-03-07,Shipped
+670,2023-06-10,554,173,12,407.33,9966.95,0.12,0.1,Credit Card,"882 Kathleen Avenue Apt. 496
+East Rodneytown, WA 96509",2021-10-27,Shipped
+671,2021-12-22,954,95,8,46.16,487.45,0.15,0.05,Debit Card,"5947 Matthews Estates
+Paulfort, ME 74410",2020-04-20,Shipped
+672,2023-11-12,406,84,2,241.95,411.77,0.21,0.16,Online Payment,"Unit 1024 Box 9715
+DPO AP 55818",2021-11-30,Shipped
+673,2022-03-12,277,61,2,188.6,1233.69,0.14,0.03,Cash,"782 Palmer Well Apt. 946
+South Mark, DE 48176",2020-04-15,Pending
+674,2021-10-19,604,65,13,198.78,1035.32,0.19,0.06,Credit Card,"92955 Tracy Street Apt. 708
+Jonesbury, RI 85201",2022-05-15,Delivered
+675,2022-08-05,132,28,7,35.17,3399.43,0.05,0.17,Online Payment,"496 Wilson Run Suite 876
+Jenniferburgh, MN 55447",2021-01-21,Delivered
+676,2023-10-30,273,85,9,239.79,7303.55,0.13,0.04,Online Payment,"6168 Wright Mews Suite 227
+East Johnburgh, NH 74770",2020-04-23,Cancelled
+677,2021-08-12,442,118,10,160.01,558.85,0.21,0.1,Cash,"59952 Shelton Points Apt. 876
+Robertchester, GA 72556",2023-11-01,Cancelled
+678,2022-02-27,96,108,13,411.82,1324.69,0.22,0.01,Debit Card,"93330 Annette Common
+East Hollychester, IA 64735",2023-05-27,Cancelled
+679,2020-10-28,388,75,7,50.45,8335.05,0.14,0.19,Online Payment,"105 Brown Brook Suite 997
+Brownburgh, IL 67469",2020-12-03,Pending
+680,2023-06-03,343,66,5,80.36,8722.57,0.12,0.17,Cash,"061 Christopher Stream Apt. 633
+Lake Scott, TX 42432",2022-04-24,Cancelled
+681,2020-04-12,938,115,2,478.02,5822.51,0.29,0.1,Online Payment,"2180 Barnes Shoal Apt. 986
+South Michael, ME 09025",2020-04-25,Shipped
+682,2021-09-14,332,50,17,119.21,8395.97,0.29,0.18,Credit Card,"311 Owen Stravenue
+Danielfort, AL 61577",2023-07-27,Cancelled
+683,2023-11-21,707,138,6,266.94,2573.15,0.12,0.14,Cash,"234 Johnson Orchard
+Larrybury, AZ 82695",2022-03-11,Delivered
+684,2021-05-09,436,106,13,170.5,8886.34,0.28,0.06,Online Payment,"4339 Hanson Island Apt. 173
+West Allenside, IL 31650",2022-04-26,Cancelled
+685,2022-06-20,62,166,9,153.05,3329.1,0.17,0.17,Cash,"377 Solis Camp
+Lake Alexander, AZ 33477",2023-01-01,Delivered
+686,2021-06-18,489,86,18,129.0,2918.64,0.24,0.09,Credit Card,"7494 Shaffer Common Apt. 572
+Lake Ritaton, MO 48652",2020-11-01,Cancelled
+687,2020-08-12,768,197,2,337.51,2439.94,0.28,0.09,Credit Card,"6656 Hunter Circles
+South Sarahmouth, PA 69223",2023-02-01,Pending
+688,2023-06-18,783,76,16,217.57,3209.06,0.1,0.18,Cash,"9502 Laura View Apt. 397
+East Samanthaburgh, NC 66404",2022-05-20,Delivered
+689,2023-09-04,731,194,20,35.28,2883.46,0.27,0.02,Debit Card,"PSC 6402, Box 8516
+APO AP 95138",2022-05-31,Cancelled
+690,2020-08-17,807,19,13,167.63,1336.68,0.23,0.18,Cash,"2765 Felicia Lights
+Sandrahaven, IA 52864",2022-12-15,Cancelled
+691,2021-10-12,468,133,19,108.61,7385.62,0.21,0.06,Debit Card,"7894 Melissa Common Suite 388
+Port Teresa, WI 26846",2023-08-11,Cancelled
+692,2022-05-07,359,113,12,253.0,6795.77,0.03,0.17,Credit Card,"Unit 3702 Box 2762
+DPO AA 47851",2021-05-25,Shipped
+693,2022-11-28,777,193,5,137.77,1737.02,0.22,0.06,Credit Card,"1141 Carr Canyon
+Port Nicholashaven, AK 36709",2022-07-11,Shipped
+694,2021-06-24,483,170,16,117.38,1309.56,0.27,0.02,Cash,"8256 Lisa Hills
+New Anthonyside, SC 68268",2022-12-12,Delivered
+695,2020-09-05,939,200,14,373.98,1106.29,0.06,0.09,Debit Card,"002 Mullins Forges Suite 887
+East Joyceburgh, NM 12185",2021-12-29,Cancelled
+696,2023-09-19,190,53,4,487.7,7672.91,0.08,0.14,Online Payment,"959 Luna Drives Suite 446
+Joneshaven, VT 37303",2020-05-29,Pending
+697,2021-12-09,75,126,13,433.33,6807.56,0.29,0.04,Online Payment,"836 Weber Junctions Suite 158
+North Deniseville, MA 15935",2023-05-02,Pending
+698,2023-05-30,831,6,16,265.22,2071.27,0.1,0.06,Debit Card,"26682 Oconnor Road Apt. 036
+North Brandiside, NH 28162",2021-04-02,Pending
+699,2021-02-08,314,40,20,372.43,3497.43,0.06,0.19,Online Payment,"2868 Marquez Forks
+North Petermouth, PA 65283",2023-06-10,Cancelled
+700,2021-03-12,492,126,5,411.87,6668.68,0.19,0.17,Credit Card,"941 Walsh Points
+Kelleyport, VA 14457",2020-07-13,Pending
+701,2021-12-06,825,93,8,321.96,5350.79,0.28,0.1,Online Payment,"05828 Scott Lock
+Michellefort, ME 95518",2020-07-19,Pending
+702,2023-07-18,538,81,20,109.81,2637.22,0.03,0.03,Debit Card,"254 Case Hollow
+East Elizabethborough, WI 55577",2020-06-14,Pending
+703,2020-04-17,566,23,12,253.79,5203.48,0.18,0.0,Debit Card,"5374 Stanley Locks Apt. 786
+Fischertown, MN 30300",2020-12-25,Shipped
+704,2022-08-22,680,37,5,17.0,4313.51,0.11,0.07,Credit Card,"50257 David Dam
+North Stevenport, AK 33467",2020-03-01,Shipped
+705,2022-05-10,117,10,13,132.47,5654.02,0.14,0.02,Credit Card,"42191 Gallagher Keys Suite 828
+Lake Jamesland, ND 56469",2020-06-01,Cancelled
+706,2020-07-05,827,68,2,135.87,7420.02,0.21,0.04,Online Payment,"297 Wright Neck Apt. 764
+Savannahtown, TX 75126",2020-12-26,Shipped
+707,2020-10-27,613,78,3,494.82,3343.03,0.22,0.08,Cash,"5798 Payne Neck
+East Jacquelinestad, NM 63994",2022-07-12,Delivered
+708,2021-09-19,387,64,13,326.44,119.51,0.22,0.0,Cash,"6507 Dalton Valley
+West Maryside, NJ 46634",2022-05-09,Delivered
+709,2022-03-10,31,55,1,145.86,2397.81,0.16,0.14,Cash,"282 Moore Parkway Apt. 078
+Hartfurt, MO 62214",2020-04-25,Pending
+710,2020-06-09,806,82,2,55.55,37.52,0.2,0.16,Debit Card,"8683 Russell Lock
+Charlesbury, DC 99381",2023-02-27,Cancelled
+711,2022-06-21,641,49,12,160.99,2766.55,0.2,0.15,Cash,"30835 Kirk Circles
+North Janiceburgh, MD 68048",2022-05-26,Shipped
+712,2023-12-27,996,36,2,440.2,6870.18,0.24,0.12,Cash,"66982 David Garden
+East Michelleshire, LA 85494",2020-03-03,Delivered
+713,2020-11-30,364,146,14,396.28,6550.65,0.26,0.04,Online Payment,"80874 Parker Course Suite 693
+Lake Jonathan, GA 07398",2023-02-18,Cancelled
+714,2020-01-12,10,189,3,294.77,972.66,0.09,0.12,Debit Card,"49399 Alexandra Way Apt. 433
+Lake Williamland, KY 39488",2022-04-22,Shipped
+715,2021-03-14,534,198,8,204.99,1459.95,0.14,0.02,Credit Card,"81323 Vincent Wells Suite 855
+North David, MA 11228",2022-10-17,Cancelled
+716,2022-02-17,215,77,5,157.59,5615.34,0.09,0.07,Cash,"77261 Thomas Views Suite 511
+New Mirandamouth, MD 87178",2023-12-28,Shipped
+717,2023-04-20,592,19,16,421.8,88.33,0.06,0.1,Debit Card,"577 Destiny Villages Apt. 469
+South Danielchester, NH 34316",2023-02-10,Pending
+718,2022-02-05,820,40,3,219.88,9659.77,0.07,0.03,Cash,"81999 Michelle Greens Suite 474
+Lake Tonyborough, ND 04243",2022-10-29,Delivered
+719,2020-06-13,537,148,6,84.81,7903.7,0.16,0.16,Cash,"992 Tom Road Apt. 401
+Hortonmouth, AK 72214",2021-11-30,Delivered
+720,2022-01-13,331,187,8,316.47,5423.9,0.18,0.07,Credit Card,"2379 Ricky Village Suite 012
+Lake Raymond, CT 24739",2022-04-27,Shipped
+721,2020-07-07,446,105,9,134.23,299.93,0.15,0.2,Cash,"428 Torres Land Apt. 315
+Davidfurt, DC 74909",2023-12-05,Pending
+722,2023-12-03,561,114,4,462.75,7804.32,0.22,0.19,Debit Card,"80282 Victoria Streets
+Murraytown, NY 70135",2023-03-11,Pending
+723,2021-11-02,720,97,3,141.19,3623.86,0.27,0.11,Credit Card,"2392 Bell Turnpike Apt. 716
+Collinstown, WV 10974",2022-06-23,Delivered
+724,2021-11-10,131,62,12,184.56,8325.86,0.02,0.19,Online Payment,"24727 Clark Plains Apt. 771
+Port Marcusport, NJ 38090",2022-04-26,Pending
+725,2023-02-27,191,14,5,79.45,8530.39,0.15,0.05,Online Payment,"020 Gray Meadow
+Keithport, MD 78741",2021-10-16,Cancelled
+726,2020-10-12,512,3,5,121.84,5316.23,0.04,0.14,Debit Card,"41275 Joshua Passage Suite 349
+Lake Carmen, OH 44575",2023-11-05,Delivered
+727,2020-04-18,292,47,4,318.71,4318.14,0.11,0.06,Cash,"2545 Sherry Tunnel Apt. 356
+East Brooke, GA 51070",2023-03-26,Cancelled
+728,2021-11-18,476,105,7,307.44,1958.62,0.09,0.11,Cash,"64999 William Lodge
+Raymouth, OH 34870",2020-03-09,Shipped
+729,2022-10-05,848,181,19,477.11,3069.16,0.24,0.2,Debit Card,"558 Austin Fork
+South Andrewton, MN 76594",2023-02-05,Shipped
+730,2023-04-26,531,106,20,383.26,9670.02,0.06,0.19,Cash,"Unit 5141 Box 9319
+DPO AE 54823",2022-04-16,Pending
+731,2021-11-18,140,44,12,333.74,3805.32,0.15,0.13,Credit Card,"25708 Eric Canyon Apt. 129
+West Robinton, SC 68584",2023-05-01,Delivered
+732,2022-07-19,732,142,11,470.67,491.04,0.23,0.03,Debit Card,"482 Austin Pike
+Millerland, OK 09244",2020-10-06,Shipped
+733,2023-01-08,471,120,5,396.74,831.88,0.0,0.11,Debit Card,"68230 Megan Wells Suite 827
+Leslieland, HI 78634",2020-09-29,Cancelled
+734,2020-09-08,124,66,19,292.1,8345.5,0.12,0.02,Debit Card,"43914 Bradley Port
+Lake Katherineland, KY 00963",2022-08-02,Cancelled
+735,2020-03-08,517,52,13,380.72,2372.52,0.14,0.02,Credit Card,"Unit 8656 Box 6138
+DPO AP 81878",2021-05-06,Cancelled
+736,2021-05-19,313,32,16,429.26,7591.13,0.15,0.09,Cash,"183 Mccarthy Garden Suite 472
+Jamesside, NJ 40162",2023-06-16,Delivered
+737,2021-04-12,263,25,20,191.44,6391.48,0.02,0.12,Cash,"84982 Christina Gateway Suite 818
+West Erica, KS 35108",2023-06-20,Delivered
+738,2022-12-19,966,2,4,76.69,4411.12,0.09,0.02,Online Payment,"USS Torres
+FPO AE 71137",2021-04-08,Pending
+739,2021-10-05,287,14,12,191.55,3243.51,0.04,0.18,Credit Card,"64859 Jackson Mountain
+Jeffreyfort, PA 28496",2020-10-13,Delivered
+740,2020-11-17,442,150,19,322.51,3644.44,0.01,0.11,Credit Card,"492 Johnson Groves
+Port Joel, KY 52154",2020-12-23,Shipped
+741,2020-11-17,841,55,17,15.37,3657.32,0.13,0.11,Credit Card,"PSC 4534, Box 6461
+APO AA 58623",2021-03-08,Pending
+742,2023-09-20,717,181,20,227.08,8515.56,0.23,0.13,Credit Card,"1104 Jason Manor Suite 995
+North Amandastad, TN 95335",2023-05-01,Pending
+743,2022-02-11,773,1,7,160.3,3741.65,0.26,0.12,Cash,"9534 Chung Prairie Apt. 324
+Jacquelinetown, UT 66275",2020-10-16,Shipped
+744,2021-03-31,337,38,14,81.88,2486.35,0.01,0.0,Cash,"USNS White
+FPO AA 36653",2023-12-25,Cancelled
+745,2022-12-16,723,173,13,204.71,9451.38,0.1,0.08,Debit Card,"3201 Natalie Landing Apt. 151
+East Paul, CA 06420",2021-07-24,Pending
+746,2023-06-06,509,85,5,424.34,2863.26,0.09,0.19,Online Payment,"22446 Rosales Shoal Suite 345
+New Cody, AZ 88019",2023-05-30,Cancelled
+747,2021-01-01,331,114,15,420.32,9926.66,0.25,0.03,Debit Card,"7091 Rebecca Groves
+North Michaelside, CO 65637",2022-05-20,Cancelled
+748,2021-10-04,650,10,10,313.55,5339.85,0.19,0.09,Online Payment,"665 Brandi Neck Suite 870
+Lake Chaseton, ME 65374",2023-09-11,Delivered
+749,2022-10-06,727,168,13,377.82,3646.29,0.05,0.04,Credit Card,"50516 Amy Drives
+Garciachester, NM 89426",2023-07-06,Delivered
+750,2021-09-03,940,104,9,383.52,6665.14,0.07,0.14,Credit Card,"8318 Williams Point
+New Ashley, VA 62775",2021-04-28,Shipped
+751,2023-05-25,121,7,18,177.66,8841.17,0.3,0.1,Debit Card,"847 Kenneth Point Apt. 683
+Leside, IA 13067",2020-08-21,Cancelled
+752,2022-07-20,579,73,13,431.0,3057.07,0.03,0.13,Debit Card,"518 Hensley Street Apt. 345
+Kimberlyview, IA 37597",2021-11-13,Cancelled
+753,2021-08-14,124,41,11,57.06,6763.49,0.02,0.04,Credit Card,"7193 Amanda Throughway
+Perkinston, IA 85097",2020-12-25,Cancelled
+754,2023-08-17,354,136,16,55.03,1764.12,0.25,0.15,Debit Card,"57735 Wanda Court
+New Jessica, MA 68023",2023-11-04,Cancelled
+755,2022-08-11,968,96,11,93.22,4350.62,0.05,0.19,Online Payment,"76636 Mack Viaduct
+Port Nicholasmouth, NH 86042",2023-02-14,Delivered
+756,2020-08-21,427,137,1,462.92,7519.33,0.25,0.18,Credit Card,"84122 Harold Roads
+Milesview, AL 30038",2022-05-29,Delivered
+757,2021-07-21,230,200,18,93.17,3718.36,0.01,0.01,Online Payment,"828 Morgan Extensions
+Port Jessica, TX 35802",2022-06-14,Shipped
+758,2020-06-08,609,11,15,425.22,8488.06,0.2,0.05,Online Payment,"Unit 0128 Box 5687
+DPO AA 01583",2023-02-18,Delivered
+759,2022-12-10,695,21,20,413.13,5238.78,0.12,0.15,Cash,"13769 Andrew Port
+Charleston, VA 59250",2021-07-30,Shipped
+760,2022-09-03,468,152,16,214.04,4764.58,0.27,0.19,Debit Card,"63331 Roy Creek
+Kylefurt, SC 86782",2020-12-30,Cancelled
+761,2020-12-17,580,113,8,92.42,2170.06,0.29,0.18,Credit Card,"41752 Jason Villages
+Amyhaven, IA 36462",2020-05-17,Shipped
+762,2022-08-03,494,184,2,351.57,610.56,0.22,0.16,Online Payment,"19012 Rodriguez Lodge Suite 253
+Port Melissa, HI 64727",2021-07-04,Shipped
+763,2020-02-21,752,31,12,422.32,7109.59,0.23,0.08,Online Payment,"6451 Good Fall
+Lake Victoriafurt, MT 38105",2020-12-13,Cancelled
+764,2020-03-11,170,161,9,50.99,2591.68,0.17,0.06,Cash,"5088 Amanda Roads
+Ronaldhaven, AZ 06727",2022-11-14,Delivered
+765,2022-07-22,776,10,1,144.3,4328.74,0.13,0.15,Cash,"0996 Cynthia Isle
+North Jessica, LA 84732",2023-12-19,Shipped
+766,2022-05-22,205,40,3,45.09,4020.6,0.15,0.18,Credit Card,"017 Rojas Corner
+West Katherine, NJ 87984",2023-01-12,Delivered
+767,2021-11-28,585,143,9,307.14,248.96,0.05,0.09,Online Payment,"USNS Wheeler
+FPO AA 80739",2022-10-14,Cancelled
+768,2020-07-25,704,77,16,272.12,6228.3,0.04,0.13,Cash,"PSC 8068, Box 9534
+APO AP 71268",2022-02-06,Cancelled
+769,2020-06-09,105,162,2,404.11,2285.91,0.23,0.03,Online Payment,"203 Aguilar Loop Suite 670
+South Paulville, CA 59422",2023-08-01,Cancelled
+770,2022-07-25,674,164,16,403.39,111.11,0.26,0.03,Debit Card,"05492 Steven Neck Suite 692
+Port Jeffreyshire, CA 91622",2020-11-18,Pending
+771,2021-05-08,811,133,13,241.44,3494.24,0.08,0.02,Cash,"158 Nelson Mill Apt. 933
+Webertown, ND 48502",2023-08-11,Shipped
+772,2021-09-07,377,112,13,347.66,8328.98,0.09,0.1,Cash,"31080 Alex Causeway
+Norristown, AL 21619",2023-05-22,Cancelled
+773,2022-08-10,990,195,14,154.91,9043.53,0.02,0.04,Debit Card,"5558 Jensen Ridge Apt. 652
+Rodneyberg, MA 46433",2022-12-06,Delivered
+774,2022-08-01,306,53,10,7.11,3324.55,0.11,0.09,Credit Card,"USCGC Lee
+FPO AA 92256",2022-01-24,Pending
+775,2022-10-19,802,69,6,7.7,4679.23,0.09,0.13,Cash,"807 Amy Tunnel
+New Taylor, AZ 52576",2020-03-26,Pending
+776,2021-07-08,384,164,5,462.22,1671.88,0.06,0.13,Credit Card,"044 King Dam
+West Monica, ME 54482",2023-01-27,Cancelled
+777,2022-11-14,986,146,9,247.1,7632.91,0.21,0.02,Online Payment,"PSC 5384, Box 5930
+APO AA 80618",2022-02-08,Pending
+778,2021-11-27,726,106,16,287.7,2633.76,0.27,0.0,Debit Card,"4917 Watts Crescent
+Jacquelinefurt, SC 28047",2022-11-06,Delivered
+779,2023-07-21,490,11,19,277.61,6459.83,0.27,0.1,Debit Card,"6453 Vanessa Extension
+Katieton, NV 05574",2021-07-11,Shipped
+780,2020-09-23,933,23,16,361.93,8105.24,0.04,0.19,Online Payment,"2185 William Meadows Suite 631
+Veronicafurt, HI 35035",2021-07-17,Cancelled
+781,2022-12-04,968,72,6,244.54,8724.25,0.05,0.13,Debit Card,"323 Christie Mount
+West Michaelhaven, CA 25201",2021-01-15,Cancelled
+782,2023-12-28,536,165,15,267.03,5004.64,0.14,0.14,Credit Card,"USCGC Richardson
+FPO AP 94151",2021-07-26,Delivered
+783,2023-04-05,305,35,15,435.93,6574.83,0.12,0.07,Credit Card,"6816 Brandon Plains
+Lorichester, LA 59446",2023-11-05,Pending
+784,2023-04-08,688,103,12,98.7,7487.97,0.01,0.19,Debit Card,"3203 James Crossroad
+Lake Samantha, MD 01329",2022-05-29,Pending
+785,2021-11-26,348,79,9,186.16,9124.16,0.04,0.12,Credit Card,"6135 Stewart Lodge
+Laurenton, WI 90406",2020-08-05,Shipped
+786,2020-12-01,448,79,3,321.84,5812.8,0.27,0.0,Cash,"3829 John Harbors Suite 004
+North Carol, SD 07133",2021-03-25,Delivered
+787,2020-12-14,376,106,13,438.34,983.85,0.18,0.18,Debit Card,"85670 Jacob Ramp
+Martinezshire, VT 69664",2023-05-29,Cancelled
+788,2020-11-19,132,32,1,346.14,2493.07,0.22,0.11,Online Payment,"961 Marc Drive
+Pearsonton, CT 82633",2020-12-21,Delivered
+789,2022-06-09,359,147,13,284.15,8186.41,0.1,0.13,Credit Card,"920 Megan Crescent Suite 339
+Tranmouth, AL 13568",2021-12-03,Shipped
+790,2022-10-27,522,82,14,291.87,734.72,0.19,0.18,Credit Card,"829 Steven Club
+West Williamtown, SC 68234",2020-01-15,Pending
+791,2021-08-20,56,113,20,227.59,4473.77,0.06,0.17,Cash,"007 Casey Isle Suite 152
+West Kimstad, KY 34814",2023-06-20,Delivered
+792,2023-01-30,143,117,7,396.62,2300.17,0.07,0.1,Cash,"Unit 7771 Box 3073
+DPO AP 24144",2022-03-19,Shipped
+793,2020-06-26,20,111,18,479.29,9612.29,0.29,0.0,Credit Card,"98239 Wright Streets
+West Crystal, MI 87224",2023-11-23,Shipped
+794,2021-02-16,404,132,12,24.12,1691.14,0.05,0.03,Debit Card,"6148 Judith Loaf Apt. 499
+Lake Kristen, AR 72496",2022-02-20,Cancelled
+795,2020-10-18,498,159,13,217.5,5352.71,0.06,0.19,Cash,"0908 Aguirre Mount
+New Melaniechester, KY 48028",2020-05-06,Shipped
+796,2022-02-19,762,2,2,353.45,4791.41,0.22,0.09,Debit Card,"2400 Walton Cove
+Davidton, UT 14067",2020-02-07,Cancelled
+797,2020-01-24,646,166,9,484.18,5837.48,0.04,0.1,Debit Card,"Unit 9739 Box 1317
+DPO AE 86483",2021-05-10,Pending
+798,2023-05-15,250,178,14,324.29,6807.93,0.08,0.12,Online Payment,"825 Bell Landing Suite 363
+North Jonathan, AK 48361",2021-02-07,Cancelled
+799,2022-02-25,65,105,9,267.02,4954.28,0.01,0.09,Online Payment,"846 Dale Lodge
+Brianton, TX 67254",2022-01-03,Shipped
+800,2023-08-16,21,2,5,278.09,6059.87,0.22,0.08,Cash,"18429 Heather Tunnel
+Zacharytown, AL 97188",2023-03-05,Delivered

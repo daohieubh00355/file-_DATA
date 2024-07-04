@@ -1,0 +1,201 @@
+access_id,customer_id,access_date,access_time,category,duration,page_views,device_type,browser,operating_system,referral_source
+1,253,2024-05-25,10:11:34,Checkout,687,30,Mobile,Firefox,Windows,Facebook
+2,260,2024-06-14,23:29:32,Careers,76,15,Tablet,Chrome,Linux,Twitter
+3,13,2024-02-15,08:45:22,Contact Us,1066,36,Tablet,Safari,Windows,Google
+4,100,2023-08-24,20:54:38,Contact Us,15,19,Mobile,Chrome,Windows,Google
+5,197,2023-09-23,23:32:16,Contact Us,1154,38,Mobile,Edge,Windows,Facebook
+6,279,2023-11-05,04:27:36,Product Page,1258,49,Desktop,Safari,Android,Facebook
+7,63,2023-12-19,10:33:58,Support,955,37,Desktop,Opera,Android,Facebook
+8,212,2023-11-07,02:06:06,Product Page,2079,19,Tablet,Opera,Android,LinkedIn
+9,279,2024-01-27,16:40:29,Blog,688,24,Tablet,Edge,Windows,Direct
+10,186,2023-11-17,17:42:54,Blog,2542,38,Mobile,Opera,iOS,Twitter
+11,120,2023-08-14,05:13:29,Support,956,40,Desktop,Edge,Windows,Direct
+12,83,2023-07-27,10:41:15,Blog,2966,34,Tablet,Opera,Android,Twitter
+13,200,2024-03-08,10:00:18,Support,230,9,Mobile,Opera,Linux,Facebook
+14,184,2023-12-15,07:36:19,Product Page,1279,35,Mobile,Opera,iOS,LinkedIn
+15,114,2024-06-15,04:13:44,Contact Us,1329,31,Tablet,Chrome,Linux,Facebook
+16,118,2023-12-12,02:46:34,Support,1747,27,Mobile,Safari,MacOS,Twitter
+17,121,2024-01-21,03:29:18,Support,934,36,Tablet,Chrome,Android,Facebook
+18,46,2023-09-29,15:03:49,Blog,1322,46,Mobile,Firefox,Android,Direct
+19,41,2023-11-01,01:39:48,About Us,2584,45,Desktop,Opera,iOS,Direct
+20,96,2024-03-30,08:12:33,Contact Us,1044,50,Desktop,Chrome,Windows,Google
+21,276,2023-11-30,21:17:33,Support,96,41,Mobile,Firefox,Linux,Direct
+22,208,2024-01-21,16:47:40,Careers,41,31,Desktop,Opera,Linux,Google
+23,145,2023-12-07,08:48:58,Blog,59,31,Mobile,Chrome,Android,Twitter
+24,229,2024-01-17,05:10:29,About Us,1676,45,Tablet,Firefox,Android,LinkedIn
+25,164,2023-11-28,15:01:35,About Us,2660,19,Desktop,Firefox,Linux,LinkedIn
+26,286,2024-03-13,08:30:29,Product Page,3589,50,Mobile,Opera,Android,LinkedIn
+27,170,2023-06-24,07:08:06,Support,3464,36,Desktop,Opera,MacOS,Facebook
+28,32,2023-08-23,10:23:17,Blog,2558,3,Tablet,Safari,Android,Facebook
+29,230,2024-06-17,01:14:13,Product Page,1930,42,Tablet,Opera,MacOS,Google
+30,18,2024-02-03,10:33:24,Careers,1900,31,Tablet,Firefox,Linux,Twitter
+31,254,2024-06-21,06:47:55,Homepage,2509,21,Desktop,Opera,MacOS,LinkedIn
+32,29,2024-04-13,16:58:55,Contact Us,2810,45,Mobile,Chrome,iOS,LinkedIn
+33,163,2024-06-19,05:21:22,Blog,1189,38,Tablet,Opera,iOS,Google
+34,111,2023-06-27,20:27:09,Contact Us,3365,21,Tablet,Chrome,iOS,Twitter
+35,300,2023-07-09,18:33:52,Careers,527,26,Tablet,Safari,Android,Facebook
+36,210,2024-03-04,19:05:54,Careers,1923,27,Tablet,Edge,Android,LinkedIn
+37,128,2023-11-01,07:16:09,Blog,1509,44,Desktop,Edge,MacOS,Twitter
+38,88,2023-10-15,03:31:43,About Us,1243,16,Mobile,Firefox,Linux,Google
+39,225,2023-11-18,18:43:13,Homepage,2914,35,Tablet,Firefox,MacOS,Google
+40,223,2023-10-14,11:50:41,Support,3070,47,Tablet,Opera,MacOS,Direct
+41,96,2024-04-05,08:07:23,Support,3544,40,Tablet,Firefox,Windows,Facebook
+42,26,2024-03-21,13:54:48,Careers,3598,12,Desktop,Opera,Linux,Google
+43,26,2024-03-18,04:14:06,About Us,35,44,Desktop,Safari,Linux,Twitter
+44,166,2024-05-18,14:29:52,Checkout,897,50,Tablet,Safari,Linux,Direct
+45,36,2024-04-29,19:40:56,Homepage,3194,13,Desktop,Chrome,Android,Google
+46,275,2024-04-30,01:00:49,About Us,3423,11,Desktop,Firefox,MacOS,Facebook
+47,235,2024-01-23,16:48:39,Contact Us,2197,29,Mobile,Firefox,iOS,Facebook
+48,63,2023-07-06,02:22:11,Blog,2782,37,Mobile,Firefox,iOS,Facebook
+49,150,2023-07-13,22:51:39,Careers,538,32,Tablet,Edge,Windows,Direct
+50,55,2023-12-10,02:11:17,Contact Us,1778,39,Tablet,Chrome,iOS,LinkedIn
+51,170,2023-06-23,22:01:30,About Us,3092,41,Tablet,Edge,Android,Google
+52,26,2024-01-30,12:23:23,Blog,3545,16,Tablet,Firefox,Linux,LinkedIn
+53,233,2023-11-22,21:07:27,Support,3414,44,Mobile,Edge,MacOS,Facebook
+54,71,2023-10-19,01:46:11,Product Page,713,36,Desktop,Chrome,Android,Twitter
+55,124,2023-09-23,16:32:30,Checkout,2312,27,Desktop,Safari,Linux,Direct
+56,126,2024-02-29,01:55:07,Homepage,3506,5,Desktop,Firefox,Android,Twitter
+57,66,2024-01-11,19:21:19,Careers,3375,14,Desktop,Firefox,iOS,Direct
+58,190,2024-04-06,10:47:45,Careers,1158,8,Desktop,Safari,Android,LinkedIn
+59,27,2023-07-24,00:02:27,Checkout,49,39,Desktop,Opera,Linux,Direct
+60,5,2023-09-30,19:10:35,Checkout,1930,39,Desktop,Opera,Android,Facebook
+61,174,2023-11-02,06:42:20,Blog,3349,1,Desktop,Firefox,iOS,Twitter
+62,78,2023-11-08,08:40:35,Support,2878,39,Mobile,Firefox,Windows,Facebook
+63,140,2023-08-01,15:44:23,Careers,1338,3,Desktop,Edge,Android,Direct
+64,56,2024-04-18,19:29:17,Checkout,1505,36,Desktop,Edge,Linux,LinkedIn
+65,141,2024-01-16,11:01:34,Careers,1096,19,Tablet,Chrome,Linux,LinkedIn
+66,133,2023-09-19,20:50:20,Support,2443,33,Mobile,Firefox,Android,Twitter
+67,121,2024-05-15,09:42:12,About Us,64,39,Tablet,Safari,iOS,Twitter
+68,75,2023-10-05,09:26:36,About Us,2786,34,Mobile,Safari,Linux,LinkedIn
+69,159,2024-02-26,15:57:56,Product Page,2333,28,Tablet,Safari,Android,Twitter
+70,296,2023-07-23,11:13:28,Product Page,616,49,Mobile,Chrome,iOS,LinkedIn
+71,154,2024-05-29,17:43:32,Blog,190,14,Tablet,Chrome,Linux,Google
+72,73,2023-09-17,03:56:25,Product Page,2592,22,Mobile,Safari,Linux,Direct
+73,277,2023-11-12,01:50:58,Homepage,2636,29,Mobile,Safari,Windows,Google
+74,71,2024-01-31,12:14:08,Careers,2818,32,Tablet,Opera,Android,Twitter
+75,92,2024-05-12,02:56:23,Checkout,2076,10,Desktop,Opera,Android,Twitter
+76,15,2024-04-16,00:34:26,Homepage,470,43,Mobile,Opera,Linux,Direct
+77,78,2023-11-06,10:47:23,Homepage,1088,31,Tablet,Edge,Linux,Twitter
+78,247,2023-11-22,18:18:35,Blog,2545,34,Desktop,Edge,MacOS,Direct
+79,53,2023-10-08,04:46:21,Support,1086,23,Tablet,Chrome,Linux,Twitter
+80,265,2024-06-13,09:25:26,Careers,3526,4,Tablet,Safari,MacOS,LinkedIn
+81,140,2024-04-19,14:39:05,Contact Us,1603,18,Desktop,Safari,MacOS,Twitter
+82,85,2023-11-08,21:45:41,Support,70,4,Tablet,Opera,iOS,Facebook
+83,138,2024-05-16,14:54:57,Careers,2064,18,Desktop,Chrome,Windows,LinkedIn
+84,127,2023-09-13,14:23:00,Product Page,2495,20,Mobile,Chrome,Windows,Direct
+85,182,2023-09-22,21:29:25,Contact Us,2143,18,Tablet,Firefox,Linux,Twitter
+86,195,2023-07-07,01:10:47,Support,2612,43,Mobile,Edge,Windows,Google
+87,116,2023-07-16,21:18:27,Homepage,2605,41,Desktop,Opera,Linux,Google
+88,29,2024-04-27,02:41:34,Careers,1004,40,Mobile,Edge,Linux,Direct
+89,182,2023-11-01,22:09:35,Homepage,1131,38,Tablet,Opera,MacOS,Direct
+90,247,2024-01-15,03:23:53,Blog,2724,16,Mobile,Safari,Android,Direct
+91,12,2023-11-28,22:41:23,Support,364,47,Tablet,Chrome,Android,Google
+92,222,2024-06-01,02:49:56,Product Page,354,35,Tablet,Chrome,MacOS,Google
+93,240,2024-05-30,02:29:15,Contact Us,3272,42,Tablet,Firefox,Android,Facebook
+94,249,2024-06-21,08:48:47,Contact Us,1077,24,Mobile,Chrome,Windows,LinkedIn
+95,226,2023-10-23,12:51:38,Homepage,534,8,Mobile,Safari,MacOS,LinkedIn
+96,224,2023-11-17,15:09:27,About Us,98,12,Desktop,Edge,MacOS,Google
+97,26,2023-12-25,19:03:52,Homepage,85,15,Tablet,Safari,iOS,Twitter
+98,90,2024-01-20,02:24:23,Blog,1475,25,Tablet,Edge,Linux,Direct
+99,62,2024-06-07,02:56:38,Homepage,528,13,Desktop,Edge,Windows,LinkedIn
+100,157,2023-10-16,06:47:17,Product Page,221,26,Mobile,Opera,MacOS,Twitter
+101,148,2024-02-18,07:58:42,Blog,404,11,Desktop,Firefox,iOS,LinkedIn
+102,71,2024-02-04,19:38:41,Support,2428,35,Mobile,Firefox,MacOS,Google
+103,181,2023-12-13,09:40:00,Blog,1743,32,Desktop,Chrome,iOS,Twitter
+104,153,2024-01-01,12:14:44,Blog,2296,15,Mobile,Firefox,iOS,Twitter
+105,229,2023-09-08,12:16:38,Homepage,1603,39,Mobile,Edge,Windows,Direct
+106,105,2024-01-31,00:31:02,Homepage,2000,5,Desktop,Safari,Windows,LinkedIn
+107,223,2024-04-24,12:18:13,Product Page,2455,2,Tablet,Firefox,iOS,Twitter
+108,221,2023-11-28,05:01:55,Product Page,2060,19,Tablet,Opera,Android,Google
+109,128,2023-08-28,08:33:12,Checkout,843,38,Mobile,Safari,iOS,Twitter
+110,257,2023-10-07,19:00:05,Checkout,453,43,Desktop,Opera,MacOS,Facebook
+111,112,2023-09-06,07:25:38,About Us,1038,2,Tablet,Chrome,iOS,LinkedIn
+112,226,2023-07-14,01:02:19,Blog,964,28,Mobile,Chrome,Windows,Facebook
+113,205,2023-11-30,18:29:13,Checkout,1314,50,Mobile,Safari,iOS,Facebook
+114,282,2024-01-31,07:02:21,Checkout,2096,43,Tablet,Firefox,iOS,LinkedIn
+115,4,2024-05-06,14:06:02,Product Page,775,34,Mobile,Firefox,MacOS,Google
+116,271,2023-07-20,06:00:57,Support,3109,50,Tablet,Opera,Android,Twitter
+117,198,2024-02-23,05:34:58,Checkout,854,43,Desktop,Opera,Linux,Twitter
+118,195,2024-01-30,12:24:12,Checkout,1097,33,Tablet,Firefox,MacOS,LinkedIn
+119,126,2024-05-28,23:08:19,Blog,2813,26,Tablet,Opera,Android,LinkedIn
+120,116,2023-10-14,11:06:02,About Us,1929,7,Mobile,Chrome,MacOS,LinkedIn
+121,24,2024-02-26,01:04:44,Blog,168,32,Tablet,Chrome,Windows,Google
+122,266,2023-09-10,22:06:37,Product Page,398,12,Desktop,Chrome,Linux,Twitter
+123,190,2024-02-14,16:24:00,Checkout,99,14,Desktop,Opera,Android,Twitter
+124,236,2023-12-25,02:22:02,Blog,1312,30,Tablet,Edge,iOS,Facebook
+125,278,2024-04-28,13:48:41,Support,1644,13,Desktop,Edge,Android,Facebook
+126,29,2024-01-13,23:07:48,Contact Us,882,21,Tablet,Safari,MacOS,Direct
+127,26,2024-05-29,19:57:19,Product Page,809,15,Mobile,Chrome,iOS,Direct
+128,178,2024-02-06,01:04:18,Careers,1273,27,Tablet,Opera,MacOS,Direct
+129,90,2023-09-22,02:56:22,Checkout,458,17,Tablet,Edge,iOS,LinkedIn
+130,222,2024-02-29,12:00:36,Support,1403,18,Desktop,Safari,Windows,Google
+131,57,2023-09-21,23:50:52,Blog,677,1,Tablet,Firefox,Windows,LinkedIn
+132,278,2024-02-03,01:06:08,Product Page,847,39,Tablet,Safari,Android,Direct
+133,108,2023-11-26,08:26:28,Careers,2419,31,Tablet,Opera,Android,LinkedIn
+134,184,2024-05-31,05:53:36,Checkout,116,24,Tablet,Edge,iOS,Google
+135,194,2023-12-14,04:51:56,Support,1249,27,Tablet,Edge,Android,Twitter
+136,103,2024-03-26,22:38:18,Homepage,1469,20,Desktop,Opera,Linux,LinkedIn
+137,25,2023-10-16,12:16:50,Homepage,1211,37,Desktop,Opera,Windows,Twitter
+138,62,2024-06-14,18:46:42,Support,1364,46,Mobile,Opera,MacOS,Facebook
+139,195,2024-03-15,09:39:47,Support,2895,40,Mobile,Chrome,Linux,Direct
+140,217,2024-06-18,16:36:14,Blog,57,41,Mobile,Edge,Linux,LinkedIn
+141,191,2023-08-24,19:10:27,Blog,2986,45,Tablet,Chrome,Android,LinkedIn
+142,92,2023-11-29,08:12:59,Contact Us,829,32,Desktop,Safari,Windows,Google
+143,82,2024-02-15,20:25:22,Homepage,1680,29,Desktop,Firefox,MacOS,Facebook
+144,67,2023-09-04,08:14:26,Homepage,923,22,Tablet,Firefox,Windows,Facebook
+145,205,2024-02-03,21:53:39,Support,3177,25,Mobile,Opera,iOS,Facebook
+146,182,2024-04-19,08:57:21,Support,3136,34,Mobile,Chrome,Linux,Facebook
+147,165,2023-08-23,13:53:28,Careers,1357,29,Desktop,Chrome,iOS,Direct
+148,28,2024-01-01,02:13:42,About Us,208,10,Tablet,Opera,iOS,Facebook
+149,6,2024-05-11,21:28:05,About Us,1551,10,Tablet,Edge,Linux,Facebook
+150,175,2024-02-06,20:28:34,Contact Us,428,30,Mobile,Safari,iOS,Twitter
+151,184,2024-01-15,03:24:44,Blog,2718,37,Tablet,Edge,Android,Twitter
+152,299,2024-04-15,17:41:36,Contact Us,2660,24,Desktop,Safari,Linux,Facebook
+153,202,2024-05-26,17:25:04,About Us,2966,49,Desktop,Firefox,Windows,Twitter
+154,265,2024-01-02,18:05:41,Contact Us,1582,15,Mobile,Safari,Linux,Twitter
+155,197,2023-07-13,00:39:26,Contact Us,1863,18,Tablet,Edge,Linux,Direct
+156,174,2024-02-20,01:59:56,Checkout,1553,42,Tablet,Safari,iOS,Direct
+157,248,2023-12-22,08:28:23,About Us,1316,1,Tablet,Chrome,iOS,Google
+158,50,2024-01-06,08:33:06,Blog,1173,32,Desktop,Safari,iOS,Direct
+159,225,2023-12-08,06:32:11,Support,963,20,Desktop,Edge,iOS,Twitter
+160,111,2023-08-13,19:29:15,Careers,1610,36,Tablet,Safari,MacOS,Google
+161,59,2024-01-13,15:37:29,Checkout,140,9,Desktop,Opera,MacOS,Direct
+162,237,2023-07-30,23:19:38,Blog,2520,39,Tablet,Firefox,Linux,Twitter
+163,214,2024-05-08,19:47:40,Homepage,2679,36,Tablet,Edge,Windows,Facebook
+164,245,2023-07-30,03:36:47,Careers,993,16,Desktop,Edge,Windows,Facebook
+165,133,2024-01-15,18:49:18,Product Page,2745,34,Tablet,Opera,Android,LinkedIn
+166,85,2023-07-12,04:28:11,Contact Us,2977,38,Tablet,Safari,Linux,Google
+167,117,2024-02-02,23:17:28,Blog,1471,11,Tablet,Opera,Linux,Twitter
+168,277,2023-08-11,11:20:49,Support,3100,40,Desktop,Firefox,MacOS,Twitter
+169,213,2024-03-31,14:22:32,Product Page,427,40,Mobile,Safari,Windows,LinkedIn
+170,75,2024-03-14,17:01:22,Careers,1912,24,Tablet,Firefox,Linux,Google
+171,128,2024-01-08,23:25:48,Support,1026,50,Tablet,Edge,Android,Facebook
+172,219,2024-03-15,06:31:43,About Us,2747,19,Desktop,Safari,MacOS,Twitter
+173,176,2023-12-07,02:51:44,Checkout,1504,41,Desktop,Opera,Linux,Google
+174,22,2023-10-16,13:30:21,About Us,2696,20,Desktop,Edge,iOS,Direct
+175,162,2023-12-10,10:51:46,Checkout,1436,13,Desktop,Chrome,Android,Direct
+176,71,2023-07-11,12:10:43,Contact Us,3466,25,Tablet,Safari,MacOS,Direct
+177,196,2023-07-16,12:29:20,Support,2564,49,Mobile,Chrome,Windows,Twitter
+178,202,2023-09-12,09:53:43,Homepage,322,15,Mobile,Opera,Windows,Google
+179,266,2023-11-29,21:01:19,Checkout,1657,13,Desktop,Edge,Windows,LinkedIn
+180,77,2023-10-17,01:38:31,Product Page,1964,16,Tablet,Opera,MacOS,Google
+181,198,2023-07-28,03:22:25,Support,1734,46,Desktop,Safari,Android,Twitter
+182,170,2023-09-16,20:53:22,Support,1514,42,Mobile,Safari,Windows,Google
+183,198,2023-11-19,15:03:45,Support,1865,23,Desktop,Chrome,Android,LinkedIn
+184,297,2023-07-03,20:37:49,Blog,2871,2,Desktop,Opera,Linux,Direct
+185,45,2023-10-26,18:32:43,Careers,2138,25,Mobile,Opera,Windows,Twitter
+186,76,2023-12-14,13:00:30,Support,2774,1,Mobile,Edge,Windows,Facebook
+187,244,2024-02-03,20:57:57,Checkout,315,29,Mobile,Safari,Windows,Google
+188,85,2024-01-31,12:08:29,Blog,1199,2,Tablet,Chrome,Linux,Facebook
+189,259,2024-03-16,08:43:16,About Us,1278,42,Desktop,Opera,Windows,Google
+190,122,2023-10-29,16:38:44,Contact Us,933,23,Desktop,Safari,Android,LinkedIn
+191,95,2024-05-04,01:00:45,Blog,1218,4,Tablet,Edge,Android,Facebook
+192,146,2024-05-26,00:22:36,Contact Us,808,45,Tablet,Edge,Linux,LinkedIn
+193,292,2023-11-07,06:18:40,Support,1153,50,Mobile,Safari,Linux,Twitter
+194,300,2023-10-17,11:59:59,Blog,529,18,Tablet,Edge,Linux,Twitter
+195,260,2023-10-26,05:37:27,Contact Us,2678,13,Desktop,Opera,Windows,Facebook
+196,161,2023-09-13,11:14:36,Support,3242,22,Mobile,Firefox,Android,Twitter
+197,62,2023-09-02,12:36:50,Product Page,2759,41,Tablet,Chrome,iOS,LinkedIn
+198,111,2023-12-30,06:01:26,Contact Us,408,28,Desktop,Firefox,Windows,Google
+199,260,2023-12-07,16:21:39,Blog,2909,43,Desktop,Opera,iOS,Twitter
+200,140,2024-02-09,01:53:53,Checkout,542,45,Tablet,Edge,Linux,LinkedIn
